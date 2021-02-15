@@ -1,0 +1,11 @@
+Kapitel 9.4.5.: Klimamuster
+
+     * Nicht alles ist zufällig. Manche Dinge sind vorhersehbar über wann oder was oder beides.
+     * Der zukünftige Wert von etwas ist umgekehrt proportional zu der Gewissheit, die wir darüber haben. Da die Vorhersagbarkeit einer Komponente mit der Evolution zunimmt, nimmt auch ihre Allgegenwärtigkeit zu und damit der Differenzwert entsprechend ab.
+     * Komponenten können ko-evolvieren, z. B. Übung mit Aktivitäten.
+     * Die Wirtschaft hat Zyklen, z. B. Frieden, Krieg und Wunder. Wir sind jetzt bei der Hälfte unserer Liste von Klimamustern angelangt. Ich habe sie in Abbildung 111 in orange markiert. PS. Ich mag Orange. Mein Auto ist ein oranger Mini. Ich habe Ihnen gesagt, dass ich ein ziemlich normaler Mensch bin. Wie auch immer, lesen Sie sich die Liste durch und stellen Sie sicher, dass Sie mit ihnen vertraut sind. Wir werden uns später auf sie verlassen
+
+Siehe    Abbildung 111: Klimatische Muster für mehr Details.
+
+   Wir haben auch eine Art von Gameplay in der Verwendung von schwachen Signalen hinzugefügt, die helfen können, die Antizipation zu verfeinern.
+

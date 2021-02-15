@@ -1,0 +1,6 @@
+Kapitel 12.1.1.: Was ist Phoenix
+
+   Das System beinhaltet ein proprietäres Softwarepaket, das Analysen über Daten durchführt, die von einem Sensor gesammelt werden, der im Rechenzentrum des Kunden installiert ist. Der Sensor ist ein sehr teures Gerät, das von Drittanbietern hergestellt wird. Der Sensor überwacht sowohl die Stromzufuhr als auch die Temperatur und den Luftstrom innerhalb des Gebäudes
+
+   Die Analysesoftware basiert auf einem Jahrzehnt an Best-Practice-Erfahrung für den Einsatz dieser Sensoren. Die im Softwarepaket enthaltenen Algorithmen gelten als das wesentliche Kern-IP der Tochtergesellschaft und sie unterscheiden dieses Produkt von allem anderen auf dem Markt. Diese Algorithmen sind ein sorgfältig gehütetes Geheimnis. Das Softwarepaket konsumiert auch einen Satz von Umgebungsdaten (der vom Unternehmen zur Verfügung gestellt wird), der Leistungsinformationen über gängige Hardware enthält.
+

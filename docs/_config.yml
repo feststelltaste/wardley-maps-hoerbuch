@@ -1,0 +1,19 @@
+title: Wardley Maps - Hörbuch
+description: >- # this means to ignore newlines until "baseurl:"
+  Dies ist ein Community-Projekt, welches Simon Wardleys Buch "Wardley Maps" als deutschsprachiges Hörbuch veröffentlicht (erzeugt über Amazon Polly). Mit freundlicher Genehmigung von Simon Wardley, Creative Commons Attribution-ShareAlike 4.0.
+
+
+baseurl: "/wardley-maps-hoerbuch" # the subpath of your site, e.g. /blog
+url: "https://feststelltaste.github.io"
+
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  
+twitter:
+  username: feststelltaste
+  card: summary
+  image: /images/cards_image.png

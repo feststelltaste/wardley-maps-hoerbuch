@@ -1,0 +1,38 @@
+Kapitel 11.4.8.: Spielablauf
+
+   Offene Ansätze
+
+   Ob Quellcode, Daten oder Verfahren, der Akt, etwas offen zu machen, reduziert die Barrieren für die Übernahme, fördert die Zusammenarbeit und beschleunigt die Entwicklung der Komponente
+
+   IPR
+
+   Geistige Eigentumsrechte (IPR) können zur Verlangsamung der Evolution eingesetzt werden, indem sie den Wettbewerb einschränken, bis hin zur Umzäunung einer Komponente, die es anderen erschwert, diese weiterzuentwickeln
+
+   Angst, Unsicherheit und Zweifel
+
+   Wird oft verwendet, um die Evolution zu verlangsamen, indem die Trägheit der Kunden gegenüber Veränderungen ausgenutzt wird und neue Marktteilnehmer gezwungen werden, ihre Energie von den Komponenten weg und in die Bekämpfung der Vorwürfe zu lenken
+
+   Zwang ausnutzen
+
+   Eine bestehende Beschränkung kann ausgenutzt werden, um einen einzelnen Akteur zu fragmentieren, indem die Nachfrage über seine Lieferfähigkeit hinaus gesteigert wird (z. B. durch einen Preiskrieg)
+
+   Schwitzen und Kippen
+
+   Ein Mechanismus zur Abwälzung der Altlasten auf einen Dritten durch Ausnutzung der eigenen Trägheit zur Veränderung
+
+   Katze im Sack
+
+   Ein Mechanismus, bei dem eine Verbindlichkeit als eine Art zukünftiges Geschäft verkleidet wird, bevor sie an eine dritte Partei veräußert wird
+
+   Zwei-Faktor-Märkte
+
+   Ein Mechanismus, der Anbieter und Verbraucher zusammenbringt und Netzwerkeffekte und aggregierte Daten ausnutzt
+   Abtastmotoren (ILC)
+
+   Ein Mechanismus, bei dem man der erste ist, der eine Komponente industrialisiert, anderen (dem Ökosystem) erlaubt, neue Industrien darauf aufzubauen und dann anhand von Verbrauchsdaten zukünftige Kandidaten für die Industrialisierung zu bestimmen
+
+   Wie bei den klimatischen Mustern und der Doktrin gilt auch hier, je mehr Sie das Spiel spielen, desto mehr kontextspezifische Muster werden Sie entdecken. Mit dem Verständnis der Landschaft, der Fähigkeit, Veränderungen aufgrund klimatischer Muster zu antizipieren, und dem Wissen über kontextspezifisches Spiel, mit dem Sie die Karte manipulieren können, sollten Sie in der Lage sein, zu bestimmen, wo Sie angreifen könnten und wie Sie das Spiel nutzen können, um Ihre Erfolgschancen zu erhöhen. Zumindest sollten Sie in der Lage sein, innerhalb des Unternehmens ein gemeinsames Verständnis darüber zu schaffen, wohin Sie gehen und warum Sie bestimmte Ansätze verfolgen - siehe Abbildung 160
+Siehe    Abbildung 160: Spielverlauf anwenden für mehr Details.
+
+   Dann entscheiden Sie sich zu handeln. Sie drehen den Kreislauf und wiederholen diese ganze Übung. Zögern Sie nicht mit dem Handeln, machen Sie Ihre Pläne und lassen Sie die Würfel rollen. Es lohnt sich, daran zu denken, dass eine Ihrer Handlungen vielleicht die Richtung des Unternehmens selbst ändert, Ihren eigentlichen Zweck verändert. Vielleicht fangen Sie als Papierfabrik an, vielleicht werden Sie aber auch ein Telekommunikationsunternehmen. Gewöhnen Sie sich daran, dass es keinen "Kern" eines Unternehmens gibt, der über den kurzfristigen, unmittelbaren Fokus hinausgeht.
+

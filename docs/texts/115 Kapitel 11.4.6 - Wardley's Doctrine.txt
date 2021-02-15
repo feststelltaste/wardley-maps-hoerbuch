@@ -1,0 +1,170 @@
+Kapitel 11.4.6.: Wordly’s Doctrine
+
+   Transparent sein
+
+   Neigen Sie zu Offenheit innerhalb Ihrer Organisation. Wenn Sie effektiv etwas über die Landschaft lernen wollen, dann müssen Sie Ihre Karten mit anderen teilen und ihnen erlauben, ihre Weisheit und ihre Herausforderungen in den Prozess einzubringen. Das geheime Erstellen von Landkarten in Ihrer Organisation ist ein todsicherer Weg, um ein zukünftiges Meeting zu haben, in dem jemand auf das Offensichtliche hinweist, das Sie übersehen haben
+
+   Fokus auf hohes Situationsbewusstsein
+
+   Es gibt eine ziemlich starke Korrelation zwischen Bekanntheit und Leistung, also konzentrieren Sie sich darauf. Versuchen Sie, die Landschaft zu verstehen, in der Sie konkurrieren, und verstehen Sie alle Vorschläge in dieser Hinsicht. Schauen Sie, bevor Sie springen
+
+   Verwenden Sie eine gemeinsame Sprache
+
+   Eine Notwendigkeit für effektive Zusammenarbeit ist eine gemeinsame Sprache. Karten ermöglichen es vielen Menschen mit unterschiedlichen Fähigkeiten (z. B. Marketing, Betrieb, Finanzen und IT), zusammenzuarbeiten, um ein gemeinsames Verständnis zu schaffen. Kollaboration ohne eine gemeinsame Sprache ist nur Lärm vor dem Scheitern
+
+   Annahmen in Frage stellen
+
+   Karten ermöglichen es, Annahmen visuell zu entlarven. Sie sollten dazu ermutigen, jede Karte in Frage zu stellen, mit dem Ziel, eine bessere Karte und ein besseres Verständnis zu schaffen. Haben Sie keine Angst vor Herausforderungen, es gibt keinen Platz für Ego, wenn Sie lernen wollen
+
+   Kennen Sie Ihre Anwender
+
+   Wenn Sie eine Landschaft abbilden, dann wissen Sie, wer Ihre Benutzer sind, z. B. Kunden, Aktionäre, Regulierungsbehörden und Mitarbeiter
+
+   Fokus auf Anwenderbedürfnisse
+
+   Ein wesentlicher Bestandteil des Mappings ist die Verankerung der Benutzerbedürfnisse. Idealerweise wollen Sie eine Umgebung schaffen, in der Ihre Bedürfnisse durch die Bedürfnisse Ihrer Benutzer erfüllt werden. Seien Sie sich darüber im Klaren, dass sich diese Bedürfnisse aufgrund des Wettbewerbs weiterentwickeln werden und im unerforschten Raum ungewiss sind. Seien Sie sich auch bewusst, dass Benutzer unterschiedliche und konkurrierende Bedürfnisse haben können, und seien Sie darauf vorbereitet, den Konflikt auszugleichen
+
+   Denken Sie schnell, preiswert, elegant und zurückhaltend (FIRE)
+
+   Große Systeme in kleine Komponenten zerlegen, kostengünstige Komponenten verwenden und wiederverwenden, wo es möglich ist, Budgets und Zeit einschränken, so einfach und elegant wie möglich bauen
+
+   Seien Sie pragmatisch
+
+   Es wird immer Randfälle geben oder eine Möglichkeit, etwas noch perfekter zu machen, aber wenn das, was Sie bauen, eine Komponente verwenden könnte, die bereits existiert, dann versuchen Sie, den Drang zu vermeiden, es neu zu erfinden. Wenn Sie ein Taxi-Unternehmen sind, dann wird es Ihrem Geschäft nicht helfen, Ihre Mittel in die Herstellung des perfekten Reifens zu investieren. Hinterfragen Sie immer, wenn Sie davon abweichen, etwas zu verwenden, das bereits existiert. Das alte Sprichwort "Es spielt keine Rolle, ob die Katze schwarz oder weiß ist, solange sie Mäuse fängt" ist hier relevant
+
+   Verzerrungen und Überschneidungen beseitigen
+
+   Verwenden Sie mehrere Maps, um Doppelarbeit und Verzerrungen innerhalb einer Organisation zu beseitigen. In jeder großen Organisation werden Sie oft feststellen, dass es Leute gibt, die etwas, das an anderer Stelle existiert, nachbauen oder neu erstellen. Denken Sie daran, dass sie dies nicht tun, weil sie doof sind, sondern aufgrund von bereits bestehender Trägheit oder dem Fehlen eines effektiven Kommunikationsmechanismus, d.h. sie wissen einfach nicht, dass es anderswo existiert. Seien Sie gewarnt, der Grad der Duplizierung innerhalb der meisten Organisationen übersteigt bei weitem die Erwartungen, die sie haben könnten, und Sie treten oft auf die Zehen von jemandes Lieblingsprojekt. Große verteilte Unternehmen sprechen oft von Duplikationen im einstelligen Bereich, z.B. haben wir sechs Enterprise Content Management Systeme. Sie neigen dazu, entsetzt zu reagieren, wenn "entdeckt" wird, dass sie Hunderte oder sogar "Tausende" haben. Die Leute können in diesem Bereich sehr defensiv werden
+   und wollen Sie ausschalten
+
+   Geeignete Methoden und Werkzeuge verwenden
+
+   Versuchen Sie, die Tyrannei des Einen zu vermeiden. Verstehen Sie, dass es keine magische Lösung gibt und dass Sie je nach Bedarf mehrere Methoden (z. B. agil oder lean oder six sigma) anwenden müssen. In jedem großen System können mehrere Methoden gleichzeitig eingesetzt werden. Achten Sie hier auf Ihr Ego, Stämme können sich mit fast religiösem Eifer über die Rechtschaffenheit ihrer Methode bilden. Seien Sie standhaft, Sie werden oft feststellen, dass Sie gegen alle diese Stämme gleichzeitig argumentieren
+
+   Fokus auf das Ergebnis, nicht auf einen Vertrag
+
+   Versuchen Sie, sich auf das Ergebnis und das, was Sie erreichen wollen, zu konzentrieren. Seien Sie sich bewusst, dass verschiedene Vertragsarten erforderlich sein werden, z. B. ausgelagerte, zeit- und materialbasierte oder wertbasierte Entwicklung. Neben der Ergebnisorientierung sollten Sie versuchen, die Verträge zeitlich und finanziell zu begrenzen
+
+   Normen verwenden, wo es sinnvoll ist
+
+   Wenn etwas industrialisiert ist und wenn Standards existieren, dann versuchen Sie, diese zu verwenden. Es gibt immer eine Versuchung, einen besseren Standard zu bauen, aber vermeiden Sie dies oder bauen Sie Abstraktionsschichten auf andere "Standards" auf, es sei denn, Sie haben einen extrem zwingenden Grund dafür, dies zu tun. Wenn Sie einen Toaster brauchen, kaufen Sie einen Toaster und versuchen Sie nicht, einen von Grund auf zu bauen
+
+   Durchfluss optimieren
+
+   Innerhalb einer Map wird es viele Kapitalflüsse geben - ob Information, Risiko, sozial oder finanziell. Versuchen Sie, diese zu optimieren und Engpässe zu beseitigen
+
+   Effektivität vor Effizienz
+
+   Während die Optimierung des Durchflusses wichtig ist, sollten Sie darauf achten, dass Sie keine wertvolle Zeit damit verschwenden, das Ineffektive effizienter zu machen. Verstehen Sie die Landschaft und wie sie sich verändert, bevor Sie versuchen, den Durchfluss zu optimieren
+
+   Trägheit bewältigen
+
+   Irgendwann werden Sie mit Trägheit gegenüber Veränderungen konfrontiert sein, z. B. durch bestehende Praktiken, politisches Kapital oder frühere Investitionen. Versuchen Sie, die Ursache zu verstehen. Idealerweise verwenden Sie eine Landkarte, um dies zu antizipieren, bevor Sie darauf stoßen, und haben somit Lösungen und Gegenargumente vorbereitet. Wenn möglich, nutzen Sie die Landkarten, um den Mitarbeitern zu ermöglichen, ihre eigene Trägheit zu entdecken
+
+   Fehler verwalten
+
+   In jedem System gibt es Risiken. Verwenden Sie die Karten, wo immer es möglich ist, um zu verstehen, was schiefgehen kann und welche Auswirkungen der Ausfall einer Komponente haben wird. Versuchen Sie, wo immer möglich, die Risiken zu mindern, indem Sie Systeme verteilen, für den Fall von Fehlern entwerfen und ständig Fehler einführen (Verwendung von Chaos-Engines wie dem Chaos-Affen von Netflix). Vermeiden Sie bekannte Fehlermodi, wie z. B. den Aufbau von Großprojekten (Todesstern)
+
+   Klein denken
+
+   Kennen Sie die Details, nutzen Sie kleine Teams und brechen Sie große Landschaften in kleine Aufträge auf. Lassen Sie sich nicht von Ängsten vor der Komplexität des Managements verscheuchen
+
+   Verteilen Sie Macht und Entscheidungsgewalt
+
+   Neigen Sie dazu, die Macht aus der Mitte heraus zu verteilen, einschließlich Ihrer selbst. Legen Sie die Macht in die Hände derjenigen, die den Entscheidungen, die getroffen werden müssen, am nächsten sind
+
+   Zweck, Beherrschung und Autonomie bieten
+
+   Geben Sie den Menschen einen Zweck (einschließlich eines moralischen Imperativs und eines Handlungsspielraums) für ihr Handeln. Ermöglichen Sie ihnen, in ihrem gewählten Bereich Meisterschaft aufzubauen und geben Sie ihnen die Freiheit (und Autonomie) zu handeln
+
+   Denken Sie an Eignung und Einstellung
+
+   Verstehen Sie, dass Menschen nicht nur Begabungen haben (z. B. Finanzen, Technik, Betrieb und Marketing), sondern auch unterschiedliche Einstellungen (Pionier, Siedler und Stadtplaner). Die Mentalitäten sind unterschiedlich
+
+   Es gibt nicht die eine Kultur
+
+   Verstehen Sie, dass ein Unternehmen, das auf Langlebigkeit plant, nicht nur mit der Entdeckung von unbekannten Komponenten, sondern auch mit der Verwendung von industrialisierten und dem Übergang zwischen diesen beiden Extremen umgehen muss. Sie werden unterschiedliche Haltungen brauchen. Sie werden daher viele Kulturen in Ihrer Organisation schaffen, z. B. haben Pioniere, Siedler und Stadtplaner unterschiedliche Kulturen. Das ist nichts Negatives und versuchen Sie nicht, alle in eine einzige fade Kultur zu pressen. Das wird sie nicht glücklich machen
+
+   Suchen Sie das Beste
+
+   Versuchen Sie, die besten Mitarbeiter mit der besten Eignung und Einstellung für ihre Aufgaben zu finden und zu fördern. Investieren Sie darin, sie zu halten. Zwingen Sie sie nicht dazu, etwas zu werden, was sie nicht sind. Es ist vollkommen angemessen, dass ein wirklich begabter Systemtester, der sich in einer Stadtplanungswelt mit massiv komplizierten und automatisierten Systemen auszeichnet, mehr bezahlt wird als der Projektmanager. Was Sie vermeiden wollen, ist, außergewöhnliche Menschen aus ihrer Rolle herauszunehmen und sie in etwas zu stecken, für das sie nicht geeignet sind, nur weil sie denken, dass dies der einzige Weg ist, um weiterzukommen. Führung, Management und Technik sind allesamt Fähigkeiten, sie sind alle wertvoll und sie müssen zusammenarbeiten. Wenn die Hierarchie Ihrer Organisation einheitlich Ihre Gehaltstabellen widerspiegelt, dann werden Sie wahrscheinlich Talente von dort abziehen, wo sie sein sollten, und sie in Rollen stecken, für die sie nicht geeignet sind.
+   Dies geschieht oft mit den Argumenten "Verantwortung" oder "Leitung größerer Teams" (was auch dazu führt, dass die Leute versuchen, Imperien anzuhäufen) oder "Verbreitung von Erfahrung" oder "Karrierepfad", aber es gibt alternative Wege, dies zu erreichen. Einen begabten Ingenieur zu nehmen und ihn in einen mittelmäßigen Projektmanager zu verwandeln, ist nicht klug. Dies ist wahrscheinlich einer der schwierigsten Bereiche, da man schnell auf Ego stößt
+
+   Design für ständige Weiterentwicklung
+
+   Schaffen Sie ein Organisationssystem, das mit der ständigen Ebbe und Flut in der Landschaft zurechtkommt. Im Idealfall sollten Veränderungen durch Ihre Organisation fließen, ohne dass eine ständige Umstrukturierung erforderlich ist. Eine zellenbasierte Struktur, die ein Diebstahlsystem mit Pionieren, Siedlern und Stadtplanern verwendet, ist ein solches System
+
+   Verwenden Sie einen systematischen Mechanismus des Lernens
+
+   Der Zweck des Mappings ist nicht nur die Erstellung einer Karte und ein gemeinsames Verständnis, sondern auch das Erlernen von klimatischen Mustern, Lehrmeinungen und kontextspezifischen Spielen. Karten bieten eine systematische Möglichkeit, dies zu tun, solange man sie sammelt, überprüft und daraus lernt. Haben Sie eine Vorliebe für solches Lernen und die Nutzung von Daten
+
+   Eine Tendenz zum Handeln
+
+   Dies wird am besten durch das Wort oder Rimmer’s Study Habit (eine Episode von Red Dwarf) erklärt
+
+   "Die ersten Wochen des Studiums widmete er immer der Erstellung eines Revisionsfahrplans. Wochen der geduldigen Anstrengung würden damit verbracht werden, einen Revisionsplan zu planen, zu entwerfen und zu erstellen, die, wenn sie fertig waren, kleine Kunstwerke waren.
+
+   Jede Stunde eines jeden Tages war in verschiedene Studienperioden unterteilt, jede mit seiner schönen, winzigen Kupferstich-Handschrift beschriftet; dann mit Aquarellfarben übermalt, eine andere Farbe für jedes Thema, wobei die Farben allmählich kühner und drängendere Schattierungen wurden, je näher die Prüfungszeit kam. Der Effekt war, als ob sich unzählige winzige Regenbögen über das postergroße Blatt cremefarbenen Kartons verteilten und verstreuten.
+
+   Das einzige Problem war folgendes: Da die Stundenpläne oft sieben oder acht Wochen, manchmal auch mehr, in Anspruch nahmen, war die Prüfung für Rimmer schon fast vorbei, wenn er sie fertig hatte. Er musste dann drei Monate Astronavigation in eine einzige Woche packen. Von einer fast wahnsinnigen Panik ergriffen, beschloss er dann, die ersten beiden Tage dieser letzten Woche der Erstellung eines weiteren Stundenplans zu opfern. Diesmal für jemanden, der drei Monate Lernstoff in fünf Tage packen musste
+
+   Versuchen Sie nicht, die perfekte Karte zu erstellen. Haben Sie eine Vorliebe für Action, denn die Landschaft wird sich verändern und Sie werden durch Action mehr entdecken. Sie lernen, indem Sie das Spiel spielen
+
+   Hören Sie auf Ihre Ökosysteme
+
+   Es gibt viele verschiedene Formen von Ökosystemen und Möglichkeiten, sie zu nutzen. Man kann mächtige Sensormaschinen (z.B. das ILC-Modell) für zukünftige Veränderungen bauen, Quellen der Zusammenarbeit mit anderen, defensive und offensive Allianzen. Aber Ökosysteme brauchen Management, sie müssen gepflegt werden, wie ein Gärtner einen Garten pflegt - manchmal lassen Sie sie wild wachsen, manchmal ernten Sie, manchmal helfen Sie, sie zu lenken oder einzuschränken. Dies sind besondere Fähigkeiten, die Sie entwickeln können, aber am wichtigsten ist das Prinzip - hören Sie ihnen zu
+
+   Eine Vorliebe für das Neue
+
+   Was immer Sie tun, wird sich weiterentwickeln. Haben Sie also eine Vorliebe für das Neue, seien Sie neugierig und gehen Sie entsprechende Risiken ein. Seien Sie bereit zu experimentieren
+
+   Seien Sie der Besitzer
+
+   Übernehmen Sie die Verantwortung für Ihre Umgebung, Ihre Handlungen darin und wie Sie das Spiel spielen. Sie könnten dies an einen Dritten auslagern, so wie ein Schachspieler sein Spiel an einen anderen auslagern könnte, aber Sie werden nicht lernen und es sind immer noch Sie, der verliert
+
+   Die Strategie ist iterativ und nicht linear
+
+   Verstehen Sie, dass Strategie iterativ ist. Sie müssen sich in schnellen Zyklen entsprechend der sich ändernden Umgebung anpassen. Das Beste, was Sie sich erhoffen können, ist eine Richtung, ein ständiger Prozess des Lernens und der Verbesserung Ihres Gameplays auf dem Weg dorthin
+
+   Mit weniger mehr erreichen
+
+   Sie haben eine Neigung zur kontinuierlichen Verbesserung
+
+   Außergewöhnliche Standards setzen
+
+   Geben Sie sich nicht mit "so gut wie" oder "etwas besser" als die Konkurrenz zufrieden. Streben Sie immer nach dem Allerbesten, das erreicht werden kann
+
+   Strategie ist komplex
+
+   Auf dem Weg dorthin wird es Unsicherheiten, sich abzeichnende Muster und Überraschungen geben. Das ist die eigentliche Natur des Wettbewerbs durch die Beteiligung anderer Akteure. Umarmen Sie dies, verfallen Sie nicht der Versuchung, die Zukunft planen zu können. Was zählt, ist nicht der Plan, sondern die Vorbereitung und Ihre Fähigkeit, sich anzupassen
+
+   Verpflichten Sie sich zur Richtung, seien Sie anpassungsfähig auf dem Weg
+
+   Sobald Sie eine Richtung festgelegt haben, halten Sie daran fest. Es wird oft Hürden und Hindernisse geben, aber geben Sie nicht einfach eine Richtung auf, nur weil ein einzelner Schritt schwierig ist. Versuchen Sie, Wege um die Hindernisse herum zu finden. Wenn Sie ein System aufbauen und eine gemeinsame Komponente nicht so ist wie erwartet, dann kann das oft eine Marktchance sein
+
+   Schnell bewegen
+
+   Die Geschwindigkeit, mit der Sie sich im Zyklus bewegen, ist wichtig. Es hat wenig Sinn, FIRE-ähnliche Prinzipien bei der Entwicklung eines Systems zu implementieren, wenn Sie ein Jahr brauchen, um die Entscheidung zum Handeln zu treffen. Ein unvollkommener Plan, der heute ausgeführt wird, ist besser als ein perfekter Plan, der morgen ausgeführt wird
+
+   Es gibt keinen Kern
+
+   Alles ist vergänglich. Was immer Sie für den Kern Ihres Unternehmens halten, wird es irgendwann in der Zukunft nicht mehr sein. Die einzigen Dinge, die wirklich statisch sind, sind tot
+
+   Die Landschaft ausnutzen
+
+   Nutzen Sie die Landschaft zu Ihrem Vorteil, oft gibt es starke Kraftmultiplikatoren. Sie könnten sich entscheiden, einen Konkurrenten oder eine Veränderung im Markt nicht auszunutzen, aber das sollte eine bewusste Entscheidung sein
+
+   Groß denken
+
+   Während die Aktionen, die Sie durchführen, die Art und Weise, wie Sie organisieren, und der Fokus auf Details Sie dazu zwingen, klein zu denken, wenn es darum geht, andere zu inspirieren, die Richtung vorzugeben und den moralischen Imperativ zu erfüllen, denken Sie dann groß. Ihr Ziel ist es nicht, den engen Pass der Thermopylen zu verteidigen, sondern die persische Armee zu besiegen und die griechischen Staaten zu retten
+
+   Demütig sein
+
+   Hören Sie anderen zu, seien Sie selbstlos, haben Sie Standhaftigkeit und seien Sie bescheiden. Inspirieren Sie andere durch das, was Sie sind und was Sie tun. Es gibt viele Möglichkeiten, die Landschaft zu manipulieren, z. B. mit Marketing, indem man anderen vorgaukelt, dass das, was eine Ware ist, irgendwie anders ist oder dass ein Produkt einzigartig für sie ist. Aber diese Manipulationen haben ihren Preis, nicht nur äußerlich, sondern auch innerlich. Wir können anfangen, unseren eigenen Hype, unsere eigene Unfehlbarkeit und unser "Recht" auf den Markt zu glauben. Vermeiden Sie diese Arroganz um jeden Preis
+
+   Wie bei den klimatischen Mustern gilt: Je mehr Sie das Spiel spielen, desto mehr Formen der Lehre werden Sie entdecken. Es ist wichtig, diese kontinuierlich zu lernen, also gewöhnen Sie sich an, Karten als Retrospektive zu verwenden. Achten Sie darauf, was sich verändert hat und fragen Sie immer, warum? Natürlich reicht es nicht aus, die Doktrin zu kennen - Sie wollen sie auch anwenden. Wählen Sie nicht aus, sondern wenden Sie sie alle an. Wenn es um die Anwendung der Doktrin geht, gibt es drei grundlegende Fälle:     * die Karte löst die Doktrin für Sie (z. B. eine gemeinsame Sprache haben)
+     * sie können viele Mäps verwenden, um die Doktrin anzuwenden (z. B. Verwendung mehrerer Mäps für verschiedene Geschäftsbereiche, um Doppelarbeit und Verzerrungen zu reduzieren)
+     * können Sie die Doktrin direkt auf eine Karte anwenden (z. B. zellenbasierte Strukturen, Kulturformen wie Pionier - Siedler - Stadtplaner), wie in Abbildung 159 gezeigt.
+
+Siehe    Abbildung 159: Doktrin anwenden für mehr Details.
+

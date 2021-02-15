@@ -1,0 +1,11 @@
+Kapitel 12.1.2.: Betrieb von Phoenix
+
+   Die Einrichtung auf einer Client-Seite erfordert
+     * einbau des Sensors
+     * aufstellen eines hochredundanten Servers, der das Softwarepaket enthält
+     * installation von Agenten auf jedem Rechner im Rechenzentrum, um Leistungsinformationen über das Netzwerk an das Analysetool zu liefern
+     * beschreibung des anfänglichen Layouts des Rechenzentrums für das Analysetool
+     * das System mehrere Tage lang laufen lassen, um Daten zu sammeln
+
+   Das System enthält eine lernende KI, die im Laufe der Zeit Empfehlungen zur Verbesserung der Effizienz des Stromverbrauchs von Klimaanlagen, des Luftstroms, der Positionierung der Geräte, der Art der Geräte und der Betriebsarten entwickelt. Es hat sich gezeigt, dass bei ständiger aktiver Überwachung 10 % des Energieverbrauchs innerhalb der Kundenstandorte reduziert werden können. Der Prozess der Einrichtung eines neuen Kunden umfasst eine zweitägige Installation von Geräten und Software vor Ort. Der Service wird auf Basis der anfänglichen Hardware- und Einrichtungskosten berechnet, gefolgt von einer zweijährigen erneuerbaren Softwarelizenz. Sie stellen fest, dass die Gruppe sichtlich stolz auf ihre Leistungen ist, auf das technologische Wunderwerk, das sie geschaffen hat, und auf ihre Fähigkeit, ihre Vision zu verwirklichen. Als Nächstes spricht der Leiter des Marketings.
+

@@ -1,0 +1,20 @@
+Kapitel 11.2.1.: FEUER
+
+   Ein lobenswerter Fall in der Wirtschaft ist die wirklich wunderbare Arbeit von Lieutenant Colonel Dan Ward. Wenn Sie noch nie FIRE oder den Simplicity Cycle gelesen haben, dann hören Sie auf mit dem, was Sie gerade tun (d. h. mit dem Lesen dieses Artikels) und lesen Sie sie. Ich bin zum ersten Mal auf FIRE (schnell, preiswert, zurückhaltend und elegant) gestoßen, als es noch FIST (schnell, preiswert, einfach und winzig) hieß und in Militärkreisen verwendet wurde. Die Umbenennung ist eher ein Neustart, um es für den breiteren Markt anwendbar zu machen. Ich bevorzuge zufällig den alten Begriff (wahrscheinlich meine eigene Trägheit, weil ich ihn verwendet habe), weil er einfach ein bisschen aussagekräftiger ist
+     * Schnell* bedeutet, Dinge schnell zu bauen, d. h. in kurzen Zeiträumen. Es ist eine zeitliche Einschränkung und reduziert die Risiken von Änderungen, die mit langen Zeitplänen einhergehen. Kostengünstig ist mehr als eine Beschränkung des Budgets, es ist eine Denkweise der Sparsamkeit und Wiederverwendung. Einfach ist eine Einschränkung der Komplexität, aber auch eine Haltung für die angenehme Eleganz der Einfachheit. Es geht weniger darum, mehr hinzuzufügen, sondern Dinge wegzunehmen. Während die A10 Warthog ein Beispiel für elegante Einfachheit bei Bodenangriffsflugzeugen ist, ist die F35 das genaue Gegenteil. Winzig bedeutet klein, wie in eingeschränkt oder beschränkt, wie in kleinen Budgets, kurzen Zeitplänen, kleinen Dokumenten, kleinen Teams und kleinen Komponenten. Es geht wieder um die Denkweise, die Liebe zum Detail und die Selbstkontrolle. Es geht darum zu sagen: "Wollen wir wirklich unsere Bombenflugzeuge, Bodenangriffsflugzeuge, Luft-Luft-Kampfflugzeuge und
+       Aufklärungsflugzeuge mit Kurzstart- und Senkrechtlandemöglichkeiten ausstatten?"
+     * Schnell* Ungünstig Restriktiv Elegant = FEUER
+
+   Ich habe diese FIRE-Prinzipien auf unsere obige Karte einer Kommunikationsplattform angewandt, die ich in kleine, diskrete Bereiche unterteilt habe, um breite Systeme zu vermeiden, d. h. keine Vermischung von Industriellem mit Unbekanntem. Jeder dieser Bereiche sollte mit kleinen Budgets und kurzen Zeitplänen verwaltet werden - siehe Abbildung 138
+Siehe    Abbildung 138: FEUER für mehr Details.
+
+   Mit einer solchen Karte können wir nun die Verwendung geeigneter Methoden und Techniken anwenden. Für die stärker industrialisierten Komponenten können wir Marktstandards oder Outsourcing-Vereinbarungen mit detaillierten Spezifikationen oder sogar Dienstanbieter wie Cloud-Dienste wiederverwenden. Für die eher neuartigen Komponenten können wir intern bauen oder Verträge auf Basis von Zeit und Material abschließen (siehe Abbildung 139)
+Siehe    Abbildung 139: Verwendung von Standardkomponenten und geeigneten Methoden für mehr Details.
+
+   Es ist erwähnenswert, dass Sie bei neuartigen Artikeln dann eher versuchen werden, diese selbst zu bauen. Es gibt Alternativen. Sie könnten sie auf Zeit- und Materialbasis an eine Gruppe auslagern, die auf die erforderlichen Experimente spezialisiert ist, aber das ist eine andere Art von Vereinbarung als das Outsourcing im Rahmen einer Spezifikation oder eines Volumenbetriebs. Sie könnten sogar die Neuheit an den Markt auslagern, d.h. den Markt einfach weitermachen lassen, um zu entdecken, was es gibt, und sich zurückhalten, bis die Komponente weiter entwickelt ist. Prokrastination kann ein nützliches Werkzeug sein, wenn man es bewusst als solches einsetzt und ein gutes Verständnis für die Landschaft hat
+
+   Wir können die Karte auch nutzen, um uns mit kleinen Teams zu organisieren, um die Macht weg von einem zentralen Planungsbüro zu verteilen und denjenigen vor Ort, an der "Kohlefront", Autonomie und Kontrolle zu geben, die Entscheidungen schneller und mit einem größeren Verständnis für Details treffen können (siehe Abbildung 140)
+Siehe    Abbildung 140: Leistung verteilen für mehr Details.
+
+   Der Einsatz geeigneter Methoden, eine strengere Kontrolle über Zeitpläne und Budgets mit befähigten Mitarbeitern - was kann man daran nicht mögen? Tatsächlich gibt es oft großen Widerstand dagegen.
+

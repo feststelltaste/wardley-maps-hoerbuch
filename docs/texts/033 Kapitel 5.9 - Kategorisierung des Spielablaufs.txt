@@ -1,0 +1,18 @@
+Kapitel 5.9.: Kategorisierung des Spielablaufs
+
+   Gameplay ist kontextspezifisch. Sie müssen die Landschaft verstehen, bevor Sie sie nutzen. Der Zweck des Gameplays besteht darin, dass Sie, sobald Sie die möglichen "Wo" bestimmt haben, die Sie angreifen könnten (was voraussetzt, dass Sie die Landschaft verstehen und Veränderungen gegenüber den üblichen Wirtschaftsmustern vorhersehen), dann schauen, welche Aktionen Sie durchführen können, um die vorteilhafteste Situation zu schaffen. Im Laufe dieses Buches werden wir alle Arten von Spielen behandeln und die oben besprochenen Konzepte verfeinern. Um Ihnen eine Vorstellung davon zu geben, was wir abdecken müssen, habe ich in Abbildung 59 einige Grundformen dargestellt und einige, die wir bereits erwähnt haben, orange markiert
+Siehe    Abbildung 59: Spielverlauf für mehr Details.
+
+   Ich habe die oben genannten Spielformen je nach ihrer Hauptwirkung kategorisiert :     * Veränderung der Benutzerwahrnehmung
+     * Beschleuniger der Evolution
+     * Entschleuniger der Evolution
+     * Mittel zum Umgang mit Toxizität (d.h. Vermächtnis)
+     * Markt spielt
+     * Defensiv spielt
+     * Angreifende Spiele
+     * Ökosystem Modelle
+     * Positionsspiele
+     * Vergiftungsmechanismen (verhindert, dass ein Mitbewerber den Platz nutzt)
+
+   Ich muss wiederholen, dass ich jedes Mal, wenn ich den Zyklus durchlaufen habe, das Spiel besser gespielt habe. Während wir den gleichen Weg gehen, werde ich mehr wirtschaftliche Muster, mehr Doktrinen und mehr kontextspezifisches Gameplay einbauen, zusammen mit einem tieferen Eintauchen in einige der Teile, die ich beschönigt habe oder die in diesen frühen Tagen nur allgemeine Konzepte waren. Aber wie bei allen Reisen sollten wir uns an den Weg halten und keine Abkürzungen nehmen. Jeder Schritt ist wertvoll; jede Landschaft ist eine Gelegenheit, aus der wir lernen können.
+

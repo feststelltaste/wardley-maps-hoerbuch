@@ -1,0 +1,7 @@
+Kapitel 18.2.1.: Zur Frage des Versagens
+
+   Wenn es um den Umgang mit Scheitern geht, dann ist das Leben ein Meister. Um Scheitern zu kategorisieren, neige ich dazu, die Konzepte von CS Hollings zu verwenden, die von der Widerstandsfähigkeit von Ingenieuren und Ökosystemen sprechen - siehe Abbildung 237
+Siehe    Abbildung 237: Arten des Versagens für mehr Details.
+
+   Die technische Resilienz konzentriert sich auf die Aufrechterhaltung der Effizienz einer Funktion. Ökologische Resilienz konzentriert sich auf die Aufrechterhaltung der Existenz der Funktion. Im Sinne der Nachhaltigkeit sollte das Ziel jeder Organisation sein, resilient zu werden. Dies erfordert eine Struktur, die sich der ständigen Evolution anpassen kann, zusammen mit vielen unterstützenden Ökosystemen. Leider neigen die meisten größeren Organisationen zur robusten Kategorie, indem sie ständig Prozesse entwerfen, um mit bekannten Fehlermodi fertig zu werden, und versuchen, die Effizienz jeder Kapitalfunktion aufrechtzuerhalten, wenn ein Schock auftritt, d. h. sie versuchen ständig, die Rentabilität und die Rendite für die Aktionäre zu erhalten. Obwohl sie effizient sind, bedeutet der Mangel an Vielfalt in Bezug auf Kultur und Denken, dass diese Organisationen dazu neigen, schlecht auf Umgebungen vorbereitet zu sein, die sich schnell außerhalb ihrer "Komfortzone" verändern.
+

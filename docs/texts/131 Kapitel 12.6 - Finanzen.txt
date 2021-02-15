@@ -1,0 +1,17 @@
+Kapitel 12.6.: Finanzen
+
+   Durchführung einer umfangreichen Marketing-Kampagne, um unsere Lösung auf dem bestehenden Markt zu bewerben.
+
+   Der CFO gibt einen Überblick über die Unternehmensleistung, einschließlich einer grundlegenden P und L für das Unternehmen mit Schätzungen für zukünftige Jahre (Abbildung 165), die das Programm der durch die Strategie hervorgehobenen Änderungen kostet
+Siehe    Abbildung 165: P und L für mehr Details.
+
+   Der CFO hebt die folgenden Punkte hervor:
+     * Das Unternehmen ist profitabel mit einem Umsatz von über 120 Mio. £ p.a., einem Wachstum von 10 % gegenüber dem Vorjahr und einem EBITDA von 26 %. Das Unternehmen verfügt über einen gesunden Cashflow und Reserven.
+     * Im Jahr 2016 gab es eine Neuorganisation, bei der der Bereich "Digital" mit der Produktentwicklung zusammengelegt wurde (vorher unter dem CIO) und nun unter dem CDO läuft. Es wurde in diesen Bereich investiert, insbesondere in neue Technologiebereiche innerhalb des Unternehmens, wie z. B. die Nutzung von Social Media und cloudbasierten Tools. Es wurde auch in Funktionen innerhalb von Phoenix investiert und eine Rekrutierungskampagne für Talente durchgeführt.
+     * Es wird erwartet, dass die digitale Gruppe in den nächsten zwei Jahren mit der Entwicklung des Cloud-Dienstes, dessen Einführung für Ende 2020 erwartet wird, erheblich expandieren wird. Obwohl das Unternehmen wächst, wird sich die Investition in den Jahren 2017 und 2018 wesentlich auf das EBITDA auswirken. Außerdem wird es ab 2020 eine große Marketingkampagne rund um den Cloud-Service geben.
+     * Die IT-Funktion betreibt nun interne Systeme und das Datenmanagement. Es wird erwartet, dass Effizienzeinsparungen bei den zentralen Altsystemen erzielt werden können und dass die Verlagerung auf einen externen Datensatz die IT-Kosten 2018 deutlich senken wird. Dies wird durch einen gewissen Anstieg aufgrund der Kosten für den Aufbau des Betriebs in Brasilien ausgeglichen.
+     * Die Markteinführung von Brasilien ist für 2018 geplant. Dies wird eine erhebliche Marketingoffensive, einige zusätzliche Verwaltungs- (HR), Finanz- und IT-Kosten zusammen mit erhöhten Vertriebskosten beinhalten.
+     * Bis 2021 wird erwartet, dass die Einführung von Brasilien, der Cloud-Service und die Effizienzsteigerung in der IT das Umsatzwachstum und das EBITDA erheblich beeinflussen werden. Das Unternehmen wird sich bis 2021 zu einer stärker vertriebs-, marketing- und digital geführten Organisation gewandelt haben.
+
+   Der CEO beendet das Meeting und entschuldigt sich anschließend privat für die Reaktion des CIOs. Er erklärt "es war schwierig wegen der Veränderungen. Aber diese Organisation ist kein Startup mehr und einigen Leuten ist die Anpassung an diese neue Welt nicht so leicht gefallen". Auf die Frage, was er mit dem CIO vorhat, antwortet er mit einem schiefen Lächeln: _"Nun, Sarah hat zwar ihr Interesse bekundet, den Betrieb in Brasilien aufzubauen, aber ich denke, sie weiß, dass man manchmal einfach weiterziehen muss"
+

@@ -1,0 +1,9 @@
+Kapitel 15.5.2.: Der Dienst
+
+   Der Service sollte den Verkauf von Großformatdruckern (LFP), einem ihrer Hauptprodukte, unterstützen. Jeder LFP verkauft sich für mehr als 2.000 $. Der Service muss bestehen aus:      * eine Microsite für potenzielle Kunden, die mehr über Großformatdrucker erfahren möchten. Die Seite sollte einen Link zu einer Online-Testanwendung enthalten.
+     * eine Online-Testanwendung für potenzielle Kunden, um ein Bild hochzuladen und auf dem LFP ihrer Wahl drucken zu lassen. Die Besucher der Testanwendung können entweder direkt (d. h. durch Marketing) oder indirekt (d. h. über die Microsite) kommen.
+     * ein Back-End-System, um das gedruckte Bild an den potenziellen Kunden zu verteilen, einschließlich einer Broschüre über das verwendete LFP und einem anschließenden Verkaufsgespräch.
+     * jeder gelieferte Druck wird als Lead gewertet.
+
+   Aufgrund von schlechten Erfahrungen in der Vergangenheit ist der Kunde zu mehr wertbasierten Verträgen übergegangen (bekannt als wertbasierte Entwicklung). Er möchte, dass Sie in den Dienst investieren, ihn aufbauen und betreiben, und er zahlt Ihnen 40 US-Dollar für jeden gelieferten Kundenkontakt. Sie behalten das Eigentum an jeglichem geistigen Eigentum im Zusammenhang mit dem Dienst, obwohl es eine Klausel für die exklusive Bereitstellung an den Kunden für die Dauer des Vertrags gibt, die ein Jahr beträgt.
+
