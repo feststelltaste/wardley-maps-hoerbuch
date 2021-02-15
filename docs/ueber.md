@@ -42,4 +42,4 @@ Viele Grüße,
 Markus Harrer  
 [@feststelltaste](https://www.twitter.com/feststelltaste)
 
-_Please visit [my blog](https://www.feststelltaste.de/) for [contact information](https://www.feststelltaste.de/contact/) and [privacy policy](https://www.feststelltaste.de/privacy/)._
+_Bitte besuche [meinen Blog](https://www.feststelltaste.de/) für weitere [Kontaktinformationen](https://www.feststelltaste.de/contact/)._
