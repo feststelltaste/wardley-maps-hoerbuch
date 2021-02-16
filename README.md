@@ -1,5 +1,5 @@
 # Wardley Maps Hörbuch
-Eine Hörbuchversion von Simon Wardleys Buch "Wardley Maps", übersetzt mit DeepL und erstellt mit Amazon Polly.
+Eine Hörbuchversion von Simon Wardleys Buch "Wardley Maps", übersetzt mit DeepL und erstellt mit Google Cloud Text-to-Speech.
 
 ## Content of this repository
 
