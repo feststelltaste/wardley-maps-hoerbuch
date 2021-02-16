@@ -1,6 +1,6 @@
 title: Wardley Maps - Hörbuch
 description: >- # this means to ignore newlines until "baseurl:"
-  Dies ist ein Community-Projekt, welches Simon Wardleys Buch "Wardley Maps" als deutschsprachiges Hörbuch veröffentlicht (erzeugt über Amazon Polly). Mit freundlicher Genehmigung von Simon Wardley, Creative Commons Attribution-ShareAlike 4.0.
+  Dies ist ein Community-Projekt, welches Simon Wardleys Buch "Wardley Maps" als deutschsprachiges Hörbuch veröffentlicht (erzeugt über Google Cloud Text-to-Speech). Mit freundlicher Genehmigung von Simon Wardley, Creative Commons Attribution-ShareAlike 4.0.
 
 
 baseurl: "/wardley-maps-hoerbuch" # the subpath of your site, e.g. /blog
