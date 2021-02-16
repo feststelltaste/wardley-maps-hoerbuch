@@ -5,13 +5,20 @@ image: /images/header.png
 
 ![Eine Wardley Map, die die wichtigsten Ideen zu dieser Hörbuchversion des Buches von Simon Wardley charakterisiert.](images/header.png)
 
-Dies ist die (synthetisch erzeugte) Audioversion von [Simon Wardleys](https://twitter.com/swardley) Buch ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps).
+Dies ist eine synthetisch generierte Hörbuchversion von [Simon Wardleys](https://twitter.com/swardley) Buch ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps).
 
 # Mitmachen!
 
-Das deutschsprachige Hörbuch baut auf einer maschinell übersetzen Version auf. Wenn Dir Verbesserungen bei der Übersetzung einfallen, kannst Du diese gerne in dem [Übersetzungsprojekt](https://github.com/selfscrum/wardley-maps-book) einbringen. Wenn Dir Dinge bzgl. der Aussprache auffallen, hinterlasse gerne einen [Hinweis für das Hörbuch](https://github.com/feststelltaste/wardley-maps-hoerbuch/issues). Die Übersetzung und Hörbuch werden  dann von Zeit zu Zeit aktualisiert.
+Das generierte, deutschsprachige Hörbuch baut auf einer [maschinell übersetzten Version](https://github.com/selfscrum/wardley-maps-book/) auf. Wenn Dir Verbesserungen bei der Übersetzung einfallen, kannst Du diese gerne in dem [Übersetzungsprojekt](https://github.com/selfscrum/wardley-maps-book/issues) einbringen. Wenn Dir Dinge bzgl. der Aussprache auffallen, hinterlasse gerne einen [Hinweis für das Hörbuch](https://github.com/feststelltaste/wardley-maps-hoerbuch/issues). Die Übersetzung und Hörbuch werden  dann von Zeit zu Zeit aktualisiert.
 
-# MP3 Einzelversionen
+# Downloads
+
+Hier kannst Du das Hörbuch in verschiedenen Formaten herunterladen:
+
+* [MP3-Format, mehrere Dateien gepackt als ZIP-Datei (413 MB)](https://www.feststelltaste.de/wp-content/uploads/share/Simon_Wardley_-_Wardley_Maps_Hoerbuch-mp3.zip)
+* [OOG-Format, mehrere Dateien gepackt als TAR.GZ-Datei (214 MB)](https://www.feststelltaste.de/wp-content/uploads/share/Simon_Wardley_-_Wardley_Maps_Hoerbuch-ogg.tar.gz)
+
+# Online-Version
 
 Hier kannst Du die MP3s direkt auf der Website anhören. Sie sind in kleine Hörhäppchen für zwischendurch aufgeteilt. Viel Spaß!
 
