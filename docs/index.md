@@ -5,7 +5,7 @@ image: /images/header.png
 
 ![Eine Wardley Map, die die wichtigsten Ideen zu dieser Hörbuchversion des Buches von Simon Wardley charakterisiert.](images/header.png)
 
-Dies ist eine synthetisch generierte Hörbuchversion von [Simon Wardleys](https://twitter.com/swardley) Buch ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps).
+Dies ist eine synthetisch generierte Hörbuchversion von [Simon Wardleys](https://twitter.com/swardley) Buch ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps) in deutscher Sprache (eine [englische Version](https://feststelltaste.github.io/wardley-maps-audiobook/) gibt es auch).
 
 # Mitmachen!
 
