@@ -1,0 +1,34 @@
+Kapitel 6.1.: Tipps zum Mapping
+
+   Es gibt ein paar allgemeine Tipps, gängige Begriffe und Diagrammformen, die ich für das Mapping selbst verwende. Meine Tipps umfassen: 
+   _Alle Modelle sind falsch; einige sind lediglich nützlich
+
+   Mapping ist nicht die Antwort, es ist lediglich ein Leitfaden. Versuchen Sie daher nicht, die perfekte Karte zu erstellen. Der Schlüssel liegt darin, eine ausreichend gute Karte zu erstellen, um die herum Sie zusammenarbeiten können, und das erfordert, dass Sie sich mit anderen austauschen und sich für Herausforderungen öffnen. Außerdem werden Sie bei der Szenarioplanung und bei der Prüfung der Durchführbarkeit verschiedener Angriffspunkte neben dem Mapping wahrscheinlich auch andere Tools verwenden. Dazu können Finanzmodelle oder mein derzeitiger Favorit, die Business Model Canvas, gehören
+
+   Wo vor warum
+
+   Wenn Sie über Strategie nachdenken, müssen Sie als erstes herausfinden, chapter-8-keeping-the-wolves-at-bay.adoc Sie angreifen können, bevor Sie warum hier über dort angreifen. Es dreht sich alles um Position (y-Achse) und Bewegung (x-Achse)
+
+   Iteratives und kontinuierliches Lernen
+
+   Der gesamte Strategiezyklus ist iterativ, und Sie müssen denselben Weg gehen. Das bedeutet, dass das Mapping keine einmalige Übung sein wird, sondern etwas, das die ganze Zeit über stattfindet. Auch hier ist die Versuchung groß, die gesamte Landschaft in einer Art "Deathstar" - groß angelegt, allumfassend, zum Scheitern verurteilt - abzubilden, um die perfekte Antwort zu finden. Stattdessen sollten Sie die Ungewissheit umarmen, klein denken und irgendwo anfangen (eine Tendenz zum Handeln haben). Wenn Sie Mapping verwenden und es entweder sehr lange dauert oder nicht zu helfen scheint, eine Ihrer Fragen zu beantworten, dann hören Sie auf. Scheuen Sie sich nicht, einen besseren Weg zu finden, dies zu tun. Kein Modell ist perfekt
+
+   Lernen Sie selbst
+
+   Wenn Sie für die Strategie verantwortlich sind, dann müssen Sie lernen, das Spiel selbst zu spielen und die Verantwortung dafür zu übernehmen. Ich mache Strategieberatern oft das Leben schwer, aber das bedeutet nicht, dass sie keinen Nutzen haben. Verlassen Sie sich jedoch nicht darauf, dass Dritte Ihnen eine Antwort geben, sondern nutzen Sie sie, um Ihre Strategie zu hinterfragen und neue Formen des Spielens zu lernen
+
+   Begriffe
+
+   Es gibt zahlreiche Begriffe im Zusammenhang mit Mapping. Ich mache mich oft schuldig, wenn ich sie verwende, ohne sie anderen klar zu erklären. Um dies zu korrigieren, habe ich die gebräuchlichsten in Abbildung 60 aufgeführt
+Siehe    Abbildung 60: Begriffe für mehr Details.
+
+   Symbole
+
+   Karten sind offensichtlich visuell, und obwohl sie weit von den Vermessungskarten der Geographie entfernt sind, ist es nützlich, ein gemeinsames Lexikon der Symbole zu haben. In Abbildung 61 habe ich die Symbole aufgeführt, die ich verwende
+Siehe    Abbildung : 61Symbole für mehr Details.
+
+   Eine Anspielung auf frühe Begriffe
+
+   Das Mapping selbst hat sich im Laufe der Zeit weiterentwickelt, daher sind die Begriffe, die ich in der Vergangenheit verwendet habe, etwas anders als die, die ich heute verwende. Diese kosmetischen Änderungen dienen lediglich der Verfeinerung des Handwerks, die zugrunde liegende Bedeutung ist konstant geblieben.
+
+

@@ -1,0 +1,45 @@
+Kapitel 11.4.6.: Wohrdlih’s Doctrine
+
+   Transparent sein
+
+   Neigen Sie zu Offenheit innerhalb Ihrer Organisation. Wenn Sie effektiv etwas über die Landschaft lernen wollen, dann müssen Sie Ihre Karten mit anderen teilen und ihnen erlauben, ihre Weisheit und ihre Herausforderungen in den Prozess einzubringen. Das geheime Erstellen von Landkarten in Ihrer Organisation ist ein todsicherer Weg, um ein zukünftiges Meeting zu haben, in dem jemand auf das Offensichtliche hinweist, das Sie übersehen haben
+
+   Fokus auf hohes Situationsbewusstsein
+
+   Es gibt eine ziemlich starke Korrelation zwischen Bekanntheit und Leistung, also konzentrieren Sie sich darauf. Versuchen Sie, die Landschaft zu verstehen, in der Sie konkurrieren, und verstehen Sie alle Vorschläge in dieser Hinsicht. Schauen Sie, bevor Sie springen
+
+   Verwenden Sie eine gemeinsame Sprache
+
+   Eine Notwendigkeit für effektive Zusammenarbeit ist eine gemeinsame Sprache. Karten ermöglichen es vielen Menschen mit unterschiedlichen Fähigkeiten (z. B. Marketing, Betrieb, Finanzen und IT), zusammenzuarbeiten, um ein gemeinsames Verständnis zu schaffen. Kollaboration ohne eine gemeinsame Sprache ist nur Lärm vor dem Scheitern
+
+   Annahmen in Frage stellen
+
+   Karten ermöglichen es, Annahmen visuell zu entlarven. Sie sollten dazu ermutigen, jede Karte in Frage zu stellen, mit dem Ziel, eine bessere Karte und ein besseres Verständnis zu schaffen. Haben Sie keine Angst vor Herausforderungen, es gibt keinen Platz für Ego, wenn Sie lernen wollen
+
+   Kennen Sie Ihre Anwender
+
+   Wenn Sie eine Landschaft abbilden, dann wissen Sie, wer Ihre Benutzer sind, z. B. Kunden, Aktionäre, Regulierungsbehörden und Mitarbeiter
+
+   Fokus auf Anwenderbedürfnisse
+
+   Ein wesentlicher Bestandteil des Mappings ist die Verankerung der Benutzerbedürfnisse. Idealerweise wollen Sie eine Umgebung schaffen, in der Ihre Bedürfnisse durch die Bedürfnisse Ihrer Benutzer erfüllt werden. Seien Sie sich darüber im Klaren, dass sich diese Bedürfnisse aufgrund des Wettbewerbs weiterentwickeln werden und im unerforschten Raum ungewiss sind. Seien Sie sich auch bewusst, dass Benutzer unterschiedliche und konkurrierende Bedürfnisse haben können, und seien Sie darauf vorbereitet, den Konflikt auszugleichen
+
+   Denken Sie schnell, preiswert, elegant und zurückhaltend (FIRE)
+
+   Große Systeme in kleine Komponenten zerlegen, kostengünstige Komponenten verwenden und wiederverwenden, wo es möglich ist, Budgets und Zeit einschränken, so einfach und elegant wie möglich bauen
+
+   Seien Sie pragmatisch
+
+   Es wird immer Randfälle geben oder eine Möglichkeit, etwas noch perfekter zu machen, aber wenn das, was Sie bauen, eine Komponente verwenden könnte, die bereits existiert, dann versuchen Sie, den Drang zu vermeiden, es neu zu erfinden. Wenn Sie ein Taxi-Unternehmen sind, dann wird es Ihrem Geschäft nicht helfen, Ihre Mittel in die Herstellung des perfekten Reifens zu investieren. Hinterfragen Sie immer, wenn Sie davon abweichen, etwas zu verwenden, das bereits existiert. Das alte Sprichwort "Es spielt keine Rolle, ob die Katze schwarz oder weiß ist, solange sie Mäuse fängt" ist hier relevant
+
+   Verzerrungen und Überschneidungen beseitigen
+
+   Verwenden Sie mehrere Maps, um Doppelarbeit und Verzerrungen innerhalb einer Organisation zu beseitigen. In jeder großen Organisation werden Sie oft feststellen, dass es Leute gibt, die etwas, das an anderer Stelle existiert, nachbauen oder neu erstellen. Denken Sie daran, dass sie dies nicht tun, weil sie doof sind, sondern aufgrund von bereits bestehender Trägheit oder dem Fehlen eines effektiven Kommunikationsmechanismus, d.h. sie wissen einfach nicht, dass es anderswo existiert. Seien Sie gewarnt, der Grad der Duplizierung innerhalb der meisten Organisationen übersteigt bei weitem die Erwartungen, die sie haben könnten, und Sie treten oft auf die Zehen von jemandes Lieblingsprojekt. Große verteilte Unternehmen sprechen oft von Duplikationen im einstelligen Bereich, z.B. haben wir sechs Enterprise Content Management Systeme. Sie neigen dazu, entsetzt zu reagieren, wenn "entdeckt" wird, dass sie Hunderte oder sogar "Tausende" haben. Die Leute können in diesem Bereich sehr defensiv werden
+   und wollen Sie ausschalten
+
+   Geeignete Methoden und Werkzeuge verwenden
+
+   Versuchen Sie, die Tyrannei des Einen zu vermeiden. Verstehen Sie, dass es keine magische Lösung gibt und dass Sie je nach Bedarf mehrere Methoden (z. B. agil oder lean oder six sigma) anwenden müssen. In jedem großen System können mehrere Methoden gleichzeitig eingesetzt werden. Achten Sie hier auf Ihr Ego, Stämme können sich mit fast religiösem Eifer über die Rechtschaffenheit ihrer Methode bilden. Seien Sie standhaft, Sie werden oft feststellen, dass Sie gegen alle diese Stämme gleichzeitig argumentieren
+
+   Fokus auf das Ergebnis, nicht auf einen Vertrag
+

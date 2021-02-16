@@ -1,4 +1,0 @@
-Kapitel 8.6.: Bevor wir weitermachen
-
-   In den letzten Kapiteln sind wir um den Strategiezyklus herumgeschlichen und haben hauptsächlich den Zweck und dann die Landschaft behandelt. Sie sollten mit dem Strategiezyklus so vertraut sein, dass ich ihn nicht wiederholen muss. Wir werden uns weiterhin in einer Schleife um ihn herum bewegen und dabei manchmal in Zusammenhänge eintauchen. Wie auch immer, dies wird das letzte Mal sein, dass ich das erwähne. Wir sollten einige der Ideen aus diesem Kapitel rekapitulieren.
-

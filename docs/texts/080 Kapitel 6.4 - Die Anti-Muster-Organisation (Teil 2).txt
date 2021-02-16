@@ -1,0 +1,29 @@
+   Diese Abbildung ist abgeleitet von [84]figure 42 ([85]chapter 4) und ich habe einfach die mittlere "Siedler"-Gruppe herausgeschnitten. Was passiert, ist, dass Ihr Stadtplaner einen neuen Komponentendienst (A1 bis A2) baut, auf dem Ihre Pioniere aufbauen (B1). Alles funktioniert so weit gut, bis die Pioniere die Stadtplaner bitten, die neue Aktivität zu übernehmen. Die Antwort wird in der Regel negativ ausfallen, wie z.B. "es ist zu flockig", weil es noch kein gut geformtes Produkt geworden ist, es ist instabil und es fehlt an Dokumentation, da es niemanden gibt, der seine Entwicklung verwaltet. Die Pioniere wollen auch weitermachen und so kommt es zum Streit. Schließlich fangen die Pioniere an, auf ihrer eigenen Komponente aufzubauen (B1 bis C1). Das Endergebnis ist eine nie wachsende Plattform und eine zunehmend unzuverlässige Spaghetti-Kreuzung von Neuem auf Neuem gebaut. Dies wird sich negativ auf die Leistung auswirken, bis jemand eine "deathstar"-ähnliche, groß angelegte
+   Umstrukturierung der Plattform vorschlägt
+
+   Leider wird die neue Plattform unter den gleichen Problemen leiden, wenn wir anfangen, darauf aufzubauen, weil das strukturelle Problem (die "fehlenden" Siedler) nicht behoben wurde. Den meisten ist nicht bewusst, dass diese dualen Strukturen vielleicht einen kurzfristigen Gewinn bringen, aber sie führen Sie auf einen Pfad von nie wachsenden Plattformen, Spaghetti-Kreuzungen und kostspieligen Plattform-Neuschriften. Großartig für Berater bei der Reorganisation und dem Anpreisen neuer Meme, aber schrecklich, wenn Sie tatsächlich ein Unternehmen sind, das versucht, etwas auf nachhaltige Weise zu erreichen
+
+   _Ermöglicht keine Zielsetzung, Beherrschung und Autonomie
+
+   Innerhalb der Organisation herrscht oft Verwirrung über ihren Zweck, verbunden mit dem Gefühl, keine Kontrolle zu haben und keinen Einfluss nehmen zu können
+
+   _Versteht grundlegende wirtschaftliche Muster nicht
+
+   Führt oft Effizienz- oder Innovationsprogramme durch, ohne den Zusammenhang zwischen beiden zu erkennen. Geht davon aus, dass es eine Wahlmöglichkeit bei Veränderungen (z. B. Cloud) hat, wo keine existiert. Versäumt es, die eigene Trägheit zu erkennen und zu bewältigen, die durch vergangenen Erfolg verursacht wurde
+
+   _Versteht das kontextspezifische Spiel nicht
+
+   Hat keine bestehende Sprache, die es ermöglicht, kontextspezifisches Spiel zu verstehen. Verwendet oft Begriffe als Meme, z. B. Open Source, Ökosystem, Innovation, aber ohne klares Verständnis, wo sie angemessen sind
+
+   Versteht die Landschaft nicht.
+
+   Neigt dazu, die Komponenten und die Komplexität innerhalb der eigenen Organisation nicht vollständig zu erfassen. Kann seine eigenen grundlegenden Fähigkeiten oft nicht beschreiben
+
+   Versteht die Strategie nicht.
+
+   Neigt dazu, von Aussagen dominiert zu werden, dass sich bei der Strategie alles um das Warum dreht, kann aber nicht zwischen dem Warum der Absicht und dem Warum der Bewegung unterscheiden. Hat wenig Diskussion über Position und Bewegung, kombiniert mit der Unfähigkeit zu beschreiben, wo angegriffen werden soll, oder sogar die Bedeutung des Verstehens des Wo vor dem Warum. Oft ist Strategie wenig mehr als eine Tyrannei von Handlungsaussagen, die auf dem Kopieren von Memen und externen Ratschlägen basieren
+
+   Wenn Sie sich also nicht sicher sind, wo Ihre Organisation derzeit steht, können Sie die obige Tabelle nutzen, um über den Zustand des Situationsbewusstseins im Unternehmen nachzudenken. Ich habe dies auch als Vergleich in Abbildung 66 dargestellt, aber denken Sie daran, dass dies nur ein Leitfaden für Sie ist, um den Zustand Ihrer eigenen Organisation zu diskutieren und zu reflektieren
+Siehe    Abbildung 66: Signale von für mehr Details.
+
+

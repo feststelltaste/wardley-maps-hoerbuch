@@ -1,0 +1,11 @@
+Kapitel 12.4.1.: Cloud-Dienst
+
+   Es handelt sich dabei um eine der bedeutendsten Investitionen in der Geschichte des Unternehmens, die im Jahr 2018 beginnt und mit einem Investitionsvolumen von 45 Millionen Pfund gegen Ende 2020 starten soll. Der Dienst wird auf Lizenzbasis angeboten, um keinen Konflikt mit dem bestehenden Modell zu erzeugen, und wird als Gegenmaßnahme für eine zukünftige Bedrohung durch den US-Wettbewerber sowie als Notwendigkeit für ein modernes Technologieunternehmen betrachtet. Es wird erwartet, dass der Cloud-Service bis 2023 (drei Jahre nach dem Start) fast 50 Mio. £ p.a. beitragen und mehr als 10 % des Unternehmensumsatzes ausmachen wird, siehe Abbildung 162
+Siehe    Abbildung 162: Umsatz mit Cloud-Diensten für mehr Details.
+
+   Der Phoenix-Cloud-Service wird unternehmensübergreifendes Reporting und erweiterte Analysen bieten. Diese Funktionen werden auch im On-Premise-Service enthalten sein und das Unternehmen wird dieses hybride Modell von öffentlichen oder privaten Alternativen fördern. Der öffentliche Dienst wird bei einem großen Cloud-Anbieter laufen, wobei neue DevOps-Praktiken zum Einsatz kommen. Die Kernalgorithmen und die Logik von Phoenix werden beibehalten, aber an diese neue Welt angepasst. Anschließend wurde das Geschäftsmodell untersucht, einschließlich eines Business Model Canvas (Abbildung 163), der den neuen Service skizziert
+Siehe    Abbildung 163: Business Model Canvas für mehr Details.
+
+   Business Model Canvas Rahmen von Strategyzer
+
+

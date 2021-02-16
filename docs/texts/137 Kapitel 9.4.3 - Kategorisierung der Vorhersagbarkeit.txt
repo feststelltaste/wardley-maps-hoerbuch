@@ -1,0 +1,13 @@
+Kapitel 9.4.3.: Kategorisierung der Vorhersagbarkeit
+
+   Nachdem ich nun die Grundlagen der Vorhersagbarkeit eingeführt habe, möchte ich das Konzept verfeinern. Wenn ich von Vorhersagbarkeit spreche, meine ich damit, wie genau wir eine Veränderung vorhersagen können. Wenn wir einer Sache eine Wahrscheinlichkeit von 10 % zuordnen, dann bedeutet ein hohes Maß an Vorhersagbarkeit, dass unsere 10 ss-Zuordnung ungefähr richtig ist. Ein niedriges Niveau der Vorhersagbarkeit bedeutet, dass wir einfach keine Ahnung haben. Es könnten 10%, 0,1% oder 99% sein. Wir haben buchstäblich keine Ahnung. Sie können der Änderung immer noch eine genaue Wahrscheinlichkeit zuordnen, aber sie ist wahrscheinlich sehr ungenau. Sie befinden sich im Land der Kristallkugeln und mystischen Megs. Vorhersagbarkeit ist der Grad, in dem wir etwas vorhersehen
+
+   Wenn es darum geht, Veränderungen zu antizipieren, dann ist es auf Marktebene extrem schwierig zu erkennen, wer eine Veränderung vornehmen wird. Im Allgemeinen ist die Vorhersagbarkeit, wer es sein wird, immer gering. Das hindert Sie aber nicht daran, sich auf Veränderungen vorzubereiten, insbesondere auf die Industrialisierung einer Komponente. Cloud Computing war in hohem Maße vorhersehbar und man hätte sich darauf vorbereiten können, auch wenn wir nicht wussten, wer die Führung übernehmen würde. Es gibt ein breites Spektrum an Veränderungen, das ich in Abbildung 110 kategorisiert habe, wobei ich die Vorhersagbarkeit des Was und Wann als Achse verwendet habe. Die Kategorien sind :      bekannt : triviale und offensichtliche bestehende Trends, z. B. die Verbreitung einer bestehenden Handlung. Hier ist kaum ein Vorteil zu finden, da es fast jeder kennt, z. B. Diffusion von Cloud Computing im Jahr 2016.
+      unbekannt : Trends, die Sie nicht effektiv im Voraus bestimmen können, wie z. B. die Substitution von Produkten durch andere Produkte. Hier gibt es kaum einen Vorteil in Bezug auf Antizipation, weil Sie nicht antizipieren können. Es ist ein Glücksspiel.
+      wissbar : Trends, die bis zu einem gewissen Grad vor dem Auftreten bestimmt werden können, aber von der Mehrheit als unbekannt angesehen werden. Diese Trends sind es, bei denen Sie das schlechte Situationsbewusstsein anderer ausnutzen können.
+
+Siehe    Abbildung 110: Kategorien der Änderung für mehr Details.
+
+   Von Wundern und Disruption, Leading Edge Forum, 2014
+
+

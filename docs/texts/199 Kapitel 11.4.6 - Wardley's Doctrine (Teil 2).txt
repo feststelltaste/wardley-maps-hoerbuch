@@ -1,0 +1,44 @@
+   Versuchen Sie, sich auf das Ergebnis und das, was Sie erreichen wollen, zu konzentrieren. Seien Sie sich bewusst, dass verschiedene Vertragsarten erforderlich sein werden, z. B. ausgelagerte, zeit- und materialbasierte oder wertbasierte Entwicklung. Neben der Ergebnisorientierung sollten Sie versuchen, die Verträge zeitlich und finanziell zu begrenzen
+
+   Normen verwenden, wo es sinnvoll ist
+
+   Wenn etwas industrialisiert ist und wenn Standards existieren, dann versuchen Sie, diese zu verwenden. Es gibt immer eine Versuchung, einen besseren Standard zu bauen, aber vermeiden Sie dies oder bauen Sie Abstraktionsschichten auf andere "Standards" auf, es sei denn, Sie haben einen extrem zwingenden Grund dafür, dies zu tun. Wenn Sie einen Toaster brauchen, kaufen Sie einen Toaster und versuchen Sie nicht, einen von Grund auf zu bauen
+
+   Durchfluss optimieren
+
+   Innerhalb einer Map wird es viele Kapitalflüsse geben - ob Information, Risiko, sozial oder finanziell. Versuchen Sie, diese zu optimieren und Engpässe zu beseitigen
+
+   Effektivität vor Effizienz
+
+   Während die Optimierung des Durchflusses wichtig ist, sollten Sie darauf achten, dass Sie keine wertvolle Zeit damit verschwenden, das Ineffektive effizienter zu machen. Verstehen Sie die Landschaft und wie sie sich verändert, bevor Sie versuchen, den Durchfluss zu optimieren
+
+   Trägheit bewältigen
+
+   Irgendwann werden Sie mit Trägheit gegenüber Veränderungen konfrontiert sein, z. B. durch bestehende Praktiken, politisches Kapital oder frühere Investitionen. Versuchen Sie, die Ursache zu verstehen. Idealerweise verwenden Sie eine Landkarte, um dies zu antizipieren, bevor Sie darauf stoßen, und haben somit Lösungen und Gegenargumente vorbereitet. Wenn möglich, nutzen Sie die Landkarten, um den Mitarbeitern zu ermöglichen, ihre eigene Trägheit zu entdecken
+
+   Fehler verwalten
+
+   In jedem System gibt es Risiken. Verwenden Sie die Karten, wo immer es möglich ist, um zu verstehen, was schiefgehen kann und welche Auswirkungen der Ausfall einer Komponente haben wird. Versuchen Sie, wo immer möglich, die Risiken zu mindern, indem Sie Systeme verteilen, für den Fall von Fehlern entwerfen und ständig Fehler einführen (Verwendung von Chaos-Engines wie dem Chaos-Affen von Netflix). Vermeiden Sie bekannte Fehlermodi, wie z. B. den Aufbau von Großprojekten (Todesstern)
+
+   Klein denken
+
+   Kennen Sie die Details, nutzen Sie kleine Teams und brechen Sie große Landschaften in kleine Aufträge auf. Lassen Sie sich nicht von Ängsten vor der Komplexität des Managements verscheuchen
+
+   Verteilen Sie Macht und Entscheidungsgewalt
+
+   Neigen Sie dazu, die Macht aus der Mitte heraus zu verteilen, einschließlich Ihrer selbst. Legen Sie die Macht in die Hände derjenigen, die den Entscheidungen, die getroffen werden müssen, am nächsten sind
+
+   Zweck, Beherrschung und Autonomie bieten
+
+   Geben Sie den Menschen einen Zweck (einschließlich eines moralischen Imperativs und eines Handlungsspielraums) für ihr Handeln. Ermöglichen Sie ihnen, in ihrem gewählten Bereich Meisterschaft aufzubauen und geben Sie ihnen die Freiheit (und Autonomie) zu handeln
+
+   Denken Sie an Eignung und Einstellung
+
+   Verstehen Sie, dass Menschen nicht nur Begabungen haben (z. B. Finanzen, Technik, Betrieb und Marketing), sondern auch unterschiedliche Einstellungen (Pionier, Siedler und Stadtplaner). Die Mentalitäten sind unterschiedlich
+
+   Es gibt nicht die eine Kultur
+
+   Verstehen Sie, dass ein Unternehmen, das auf Langlebigkeit plant, nicht nur mit der Entdeckung von unbekannten Komponenten, sondern auch mit der Verwendung von industrialisierten und dem Übergang zwischen diesen beiden Extremen umgehen muss. Sie werden unterschiedliche Haltungen brauchen. Sie werden daher viele Kulturen in Ihrer Organisation schaffen, z. B. haben Pioniere, Siedler und Stadtplaner unterschiedliche Kulturen. Das ist nichts Negatives und versuchen Sie nicht, alle in eine einzige fade Kultur zu pressen. Das wird sie nicht glücklich machen
+
+   Suchen Sie das Beste
+

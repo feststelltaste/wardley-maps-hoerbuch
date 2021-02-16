@@ -1,6 +1,0 @@
-Kapitel 8.6.1.: Landschaft
-
-     * Seien Sie vorsichtig mit der Einfachheit. Es gibt hier einen Balanceakt, der durch das Ashby’sche Gesetz verursacht wird. Seien Sie sich bewusst, dass Sie oft Ihre Lernfähigkeit gegen eine einfachere Verwaltung eintauschen. In manchen Fällen können Sie so weit vereinfachen, dass es schädlich wird, z. B. Einheitsgröße für alle und gruppenweite KPIs. Oft wird über das KISS-Prinzip (Keep it simple, stupid) gesprochen, aber denken Sie daran, dass Sie, wenn Sie es zu einfach halten, einige ziemlich dumme Entscheidungen treffen können.
-     * Die Karte enthält Kapitalströme, die durch die Schnittstellen dargestellt werden. In der Regel gibt es mehrere Ströme in einer einzigen Karte. Dieses Kapital kann physisch, finanziell, Information, Wissen, Risiko, Zeit oder sozial sein. Es kann alles sein, was wir handeln und zwischen den Komponenten gehandelt wird.
-     * Karten sind ein Mittel zum Geschichtenerzählen. Trotz meiner mürrischen Einstellung zum Geschichtenerzählen (vor allem zu der handwinkenden Art von Geschwätz, die man oft in der Strategie findet), sind Karten eine Form des visuellen Geschichtenerzählens.
-

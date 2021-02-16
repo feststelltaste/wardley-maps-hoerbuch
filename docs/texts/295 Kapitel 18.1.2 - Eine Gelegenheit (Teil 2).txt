@@ -1,0 +1,21 @@
+   Das Governance-System musste vollkommen transparent sein. Zum Beispiel müssen die Vorschläge offen an einem Ort und in einem Format über eine gemeinsame und öffentliche Pipeline veröffentlicht werden. Dies muss die Prüfung von Vorschlägen sowohl innerhalb als auch außerhalb der Regierung ermöglichen, um die Interaktion von Abteilungen und öffentlichen Mitgliedern zu jedem Vorschlag zu fördern
+      Doktrin: Verwenden Sie eine gemeinsame Sprache (notwendig für die Zusammenarbeit)
+
+   Das Governance-System musste einen Mechanismus für die Koordination und das Engagement über Gruppen hinweg bieten, einschließlich Abteilungen und Ausgabenkontrolle. Dies erfordert einen Mechanismus des gemeinsamen Lernens - zum Beispiel die Entdeckung und Verbreitung von Beispielen guter Praxis. Um dies zu erreichen, müssen wir eine gemeinsame Sprache haben. Karten waren diese Sprache
+      Doktrin: Geeignete Methoden verwenden (z. B. agil vs. lean vs. six sigma)
+
+   Governance musste akzeptieren, dass es derzeit keine einzelnen Managementmethoden gibt, die für alle Umgebungen geeignet sind. Die Verwendung mehrerer Methoden und Techniken, die auf dem jeweiligen Kontext basieren, musste zur Norm werden
+      Doktrin: Verteilen Sie Macht und Entscheidungsfindung
+
+   Abteilungen und Gruppen sollten in der Lage sein, sich selbst so zu organisieren, wie es für die Erfüllung der zentralen Politik angemessen ist. Daher sollte das Governance-Verfahren davon absehen, den Abteilungen und Gruppen direkt Projektmethodologien und -strukturen aufzuerlegen und eine autonome Entscheidungsfindung ermöglichen. Verbesserungen der Arbeitsweise könnten durch Hinterfragen über Landkarten erreicht werden, d. h. wenn eine Abteilung der Meinung ist, dass alles ausgelagert werden sollte, könnten wir ihre eigenen Landkarten verwenden, um ihnen zu helfen, ihr eigenes Denken zu hinterfragen
+      Doktrin: Schnell, preiswert, zurückhaltend und elegant denken (FIRE)
+
+   Die Governance sollte einen Ansatz fördern, der auf schnelle, kostengünstige, einfache und kleine Systeme setzt, anstatt langsame, teure, komplexe und große Systeme zu schaffen, um ein gutes Preis-Leistungs-Verhältnis zu erreichen. Jeder einigermaßen große Technologievorschlag sollte in kleinere Komponenten zerlegt werden, wobei jede interne Entwicklung durch kleine Teams erfolgen sollte. Die Zerlegung großer Systeme würde auch dazu beitragen, zu zeigen, dass in der Regel mehrere Methoden erforderlich sind, und die Wiederverwendung zu fördern. Allerdings müssten wir auf Trägheit und Gegenargumente wie die "Komplexität der Verwaltung von Schnittstellen" gefasst sein. Die Schnittstellen existierten unabhängig davon, ob wir versuchten, sie zu ignorieren oder nicht
+      Doktrin: Verwenden Sie einen systematischen Mechanismus des Lernens (eine Vorliebe für Daten)
+
+   Das Governance-System muss einen Mechanismus zur konsistenten Messung der Ergebnisse und zur kontinuierlichen Verbesserung der Messungen bieten. Dies wird in xref:#chapter-6-getting-started[Kapitel 6] behandelt und ist eine primäre Aufgabe für jede Ausgabensteuerungsgruppe
+
+   Das Papier wurde im Jahr 2013 geschrieben und geliefert. Leider vermute ich, dass es in diesem Fall Staub gesammelt hat. Das Problem mit dem Papier war die Vertrautheit. Viele der darin enthaltenen Konzepte sind den meisten nicht vertraut, und das zu überwinden, erfordert Mühe und Engagement. Dieses Engagement war nicht vorhanden, die Tyrannei der Agilität hielt an und die unvermeidliche Gegenreaktion folgte. Es gab und gibt eine Menge guter Dinge, die von der Regierung in der IT seit 2010 erreicht wurden. Die Menschen, die dort gearbeitet haben und arbeiten, haben diese Nation stolz gemacht. Es hätte jedoch noch mehr erreicht werden können. In meinen dunkelsten und egoistischsten Momenten vermute ich, dass ich, wenn ich nicht davon ausgegangen wäre, dass jeder wüsste, wie man Karten erstellt, vielleicht in der Lage gewesen wäre, die Nadel ein wenig mehr zu bewegen, indem ich diese Konzepte im "Better for Less"-Papier prominenter vorgestellt hätte. Aber leider ist das nicht mein einziger
+   Fehler.
+
+

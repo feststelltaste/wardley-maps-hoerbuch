@@ -1,0 +1,19 @@
+Kapitel 11.3.1.: Effizienz wird unsere Budgets reduzieren
+
+   Eine der häufigsten Vorstellungen war, dass Cloud Computing die IT-Budgetausgaben reduzieren würde. Es ist eine Vorstellung, dass, wenn Cloud Computing effizienter ist, wir dann weniger für IT ausgeben werden. Klingt einfach, klingt offensichtlich und ist doch so falsch
+
+   Ich habe bei IT@Cork (2008) einen Vortrag darüber gehalten, wie diese Annahme die Schaffung neuer Industrien, die Komponentisierung und Preiselastizitätseffekte ignorierte. Durch die Steigerung der Effizienz und die Senkung der Kosten für die Bereitstellung der Infrastruktur werden viele Aktivitäten, die bisher wirtschaftlich nicht machbar waren, möglich. Darüber hinaus erhöht der Self-Service-Charakter der Cloud nicht nur die Agilität durch eine schnellere Bereitstellung, sondern ermöglicht auch Benutzerinnovationen durch die Bereitstellung von standardisierten Komponenten (der Komponentisierungseffekt). Mit Ziegeln lässt sich ein Haus schneller bauen als mit einer Lehmgrube. Dies wiederum kann die Entstehung neuer Industrien fördern, so wie die Kommodifizierung elektronischer Schaltungen - von der Innovation des Flemming-Ventils bis hin zu komplexen Produkten mit Tausenden von Schaltern - zu digitalen Taschenrechnern und Computern führte. Als sich diese Industrien entwickelten, trieben
+   sie die Nachfrage nach elektronischen Schaltungen weiter an
+
+   Der Effekt dieser Kräfte ist, dass die Bereitstellung der Infrastruktur zwar effizienter wird, aber die Gesamtnachfrage nach Infrastruktur diese Gewinne übersteigt, eben weil die Infrastruktur eine effizientere und standardisierte Komponente geworden ist. Am Ende verbrauchen wir sehr viel mehr von einer effizienteren Ressource. Dieser Effekt ist nicht neu. Er wurde von Willam Stanley Jevons in den 1850er Jahren festgestellt, als er "beobachtete, dass Englands Kohleverbrauch in die Höhe schnellte, nachdem James Watt seine kohlebefeuerte Dampfmaschine eingeführt hatte, die die Effizienz der früheren Konstruktion von Thomas Newcomen erheblich verbesserte"
+
+   In Abbildung 143 habe ich die Haupteffekte skizziert. Erstens (Punkt 1) haben Sie eine Tätigkeit, die sich von der Genese bis zum Produkt entwickelt hat und schließlich stärker industrialisiert wird, z. B. eine Ware oder ein Dienstprogramm. Dies ermöglicht eine effizientere Bereitstellung des Aktes durch Mengenoperationen
+
+   Die stärker industrialisierte Komponente kann jedoch eine größere Nutzung der Komponente ermöglichen, da zuvor unwirtschaftliche Handlungen rentabel werden (Punkt 2). Es kann einen langen Schwanz von Dingen geben, die wir gerne tun würden, und unbefriedigte Bedürfnisse, die durch die Effizienz der Bereitstellung ermöglicht werden. Der letzte Aspekt (Punkt 3) ist, dass der Verbrauch der Komponente zunehmen wird, wenn sich neue Industrien entwickeln, die sie ermöglicht
+Siehe    Abbildung 143: Jevons’sches Paradoxon für mehr Details.
+
+   Aber kann ich das nicht einfach ignorieren? Wir sprechen hier von Markteffekten? Wird es nicht mein Budget reduzieren, weil ich mich nur darum kümmere, was ich produziere, und nicht darum, welche neue ausgefallene Industrie entsteht oder welche unbefriedigten Bedürfnisse nun befriedigt werden können?
+
+   Wenn Sie sich die EDV anschauen, dann kann ich für das gleiche Geld eine Million Mal mehr Ressourcen kaufen als noch vor zwanzig Jahren. Das bedeutet nicht, dass die IT-Budgets in dieser Zeit um das Millionenfache gesunken sind, stattdessen haben wir am Ende mehr Sachen gemacht. Verwechseln Sie nicht Effizienz mit reduzierten IT-Ausgaben.
+
+

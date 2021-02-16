@@ -1,8 +1,0 @@
-Kapitel 12.- Das Szenario
-
-
-
-   Sie sind Mitglied der Geschäftsleitung eines großen Mischkonzerns mit Schwerpunkt Facility Management. Sie nehmen an einem Treffen einer hundertprozentigen Tochtergesellschaft mit deren Führungskräften teil. Sie sind auf einer Fact Finding Mission und versuchen, die Zukunft dieser Tochtergesellschaft zu bestimmen
-
-   In letzter Zeit gab es einige positive Geräusche über die Tochtergesellschaft von Analysten und auch ein gewisses Interesse von Dritten an einer möglichen Übernahme. Dieses Unternehmen bietet ein einziges Produkt an, nämlich ein Softwaresystem, das den Stromverbrauch eines Rechenzentrums überwacht, um festzustellen, ob er effektiv genutzt wird. Das Produkt ist bekannt als Phoenix.
-

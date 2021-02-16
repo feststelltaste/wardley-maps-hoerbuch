@@ -1,0 +1,28 @@
+   Ich führte unsere Analyse durch und wartete. Es war ein nervöser Moment. Hatten wir etwas gefunden oder hatten wir, wie bei vielen Versuchen zuvor, nichts gefunden? Ich neige dazu, nichts anzunehmen, und wenn es etwas gibt, neige ich dazu, es zu bezweifeln. Innerhalb unseres Datensatzes fanden wir statistisch signifikante Populationsunterschiede über eine große Anzahl von Merkmalen, aber auch signifikante Ähnlichkeiten. Ich untersuchte erneut, sah meine Arbeit durch, testete, suchte den Rat anderer und testete erneut - aber die Unterschiede und Ähnlichkeiten blieben bestehen. Zum Beispiel untersuchte ich die Sichtweise jedes Unternehmens auf Open Source und ob es in erster Linie etwas ist, das ihnen relativ wenig bedeutet, ein Mechanismus zur Kostensenkung, etwas, auf das sie sich verlassen, etwas, mit dem sie sich beschäftigen, oder ob Open Source als taktische Waffe betrachtet wird, die gegen die Konkurrenz eingesetzt wird. Das Ergebnis ist in Abbildung 120 mit der Unterteilung nach
+   Populationstyp dargestellt
+Siehe    Abbildung 120: Ansichten zu Open Source für mehr Details.
+
+   Lernen vom Web 2.0, Leading Edge Forum, 2011
+
+   Während die traditionellen Unternehmen Open Source hauptsächlich als Mittel zur Kostenreduzierung betrachteten und etwas, auf das sie sich verließen, sah diese nächste Generation es als eine Waffe im Wettbewerb und etwas, mit dem sie sich stark beschäftigten. Die Web 2.0-Gruppe hatte eine breitere Sichtweise von Kosten bis hin zur Waffe. Dieser Unterschied in der Bevölkerung wiederholte sich in vielen Merkmalen, die Strategie, Taktik, Praxis, Aktivitäten und Form umfassten. Die Wahrscheinlichkeit, durch die zufällige Auswahl einer einzigen Population die gleichen Ergebnisse zu erzielen, war außerordentlich gering. Wir hatten unseren Kandidaten der nächsten Generation gefunden
+
+   Um diese nächste Generation zu beschreiben, ist es am besten, sie gegen die traditionelleren zu untersuchen. Wie zu erwarten, überschneiden sich einige der Merkmale. Bei der Untersuchung der höchsten Priorität für die Bereitstellung von Technologie durch ein Unternehmen, ob es sich dabei um Rentabilität, die Verbesserung bestehender Produkte und Dienstleistungen, die Innovation neuer Produkte und Dienstleistungen, die Ermöglichung von Innovationen anderer Unternehmen auf der Grundlage ihrer Produkte und Dienstleistungen oder die Schaffung eines engagierten Ökosystems von Verbrauchern handelt, gibt es beispielsweise Überschneidungen. In anderen Bereichen waren die Unterschiede deutlicher. Bei einer Untersuchung der Computerinfrastruktur wurden beispielsweise traditionell Server der Enterprise-Klasse bevorzugt, während die nächste Generation eher auf Commodity-Lösungen setzt. Ein gutes Beispiel für diese Ähnlichkeit und doch Unterschied war die Einstellung zu Open Source. Auf die Frage, ob
+   Open Source für ein Unternehmen eine Quelle für unterschiedliche Vorteile sei, gaben sowohl traditionelle als auch die nächste Generation auf einer Skala von "stimme überhaupt nicht zu" bis "stimme voll zu" fast identische Antworten (siehe Abbildung 121)
+Siehe    Abbildung 121: Ähnlichkeit finden für mehr Details.
+
+   Lernen vom Web 2.0, Leading Edge Forum, 2011
+
+   Auf die Frage, ob sie eine Technologie als Open Source zur Verfügung stellen würden, um einen Konkurrenten bewusst auszustechen, waren die Antworten jedoch fast gegensätzlich (siehe Abbildung 122)
+Siehe    Abbildung 122: Unterschied finden für mehr Details.
+
+   Lernen vom Web 2.0, Leading Edge Forum, 2011
+
+   Anhand dieser Populationen habe ich dann die Hauptunterschiede zwischen der traditionellen und der nächsten Generation charakterisiert. Diese sind in Abbildung 123 dargestellt, aber wir werden sie der Reihe nach durchgehen. Ich habe auch einige allgemeine Kategorien für die Bereiche der Lehre hinzugefügt, auf die sich die Änderungen auswirken
+Siehe    Abbildung 123: Die phänotypischen Unterschiede für mehr Details.
+
+   Quelldaten aus "Learning from Web 2.0", Leading Edge Forum, 2011
+      Entwicklung
+
+   Traditionelle Unternehmen tendieren zu singulären Managementtechniken für die Entwicklung (z.B. Agile oder Six Sigma) und arbeiten oft mit einer Änderungskontrolle oder einem regelmäßigen Prozess von Updates. Die nächste Generation tendiert zu gemischten Methoden, je nachdem, was zu tun ist, und kombiniert dies mit einem kontinuierlichen Prozess der Freigabe
+      Betrieb
+

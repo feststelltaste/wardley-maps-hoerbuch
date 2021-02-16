@@ -1,0 +1,29 @@
+   Die Eigenschaften einer Komponente im unerforschten Raum sind nicht die gleichen wie die Eigenschaften der gleichen Komponente, wenn sie industrialisiert wird. In jedem großen System haben Sie dann wahrscheinlich Komponenten an verschiedenen Enden der Evolutionsskala. Dies führt zu dem Innovationsparadoxon von Salaman und Storey aus dem Jahr 2002, d. h. die Notwendigkeit, innovativ zu sein, erfordert Fähigkeiten, die der Notwendigkeit, effizient zu sein, entgegengesetzt sind. Ein Wort der Weisheit: Ein Unternehmen muss beide Extreme und die Entwicklung dazwischen managen. Es ist wirklich wichtig, sich daran zu erinnern, dass es einen Übergang von der Unerschlossenheit zur Industrialisierung gibt. Organisieren Sie sich nicht allein nach den Extremen
+
+   Keine einzige Methode passt für alle
+
+   Aufgrund dieser sich ändernden Eigenschaften gibt es keine einheitliche Methode oder Technik, die für eine ganze Landschaft geeignet ist. Man muss lernen, viele Ansätze zu verwenden und so die Tyrannei eines einzelnen zu vermeiden. Erwarten Sie jedoch, dass sich Stämme bilden und endlose sinnlose Debatten geführt werden, wie z. B. Agile versus Six Sigma oder Outsourcing versus Insourcing
+
+   Komponenten können sich mitentwickeln
+
+   Alle Komponenten können sich weiterentwickeln, ob Aktivitäten, Praktiken, Daten oder Wissen, aber sie können sich auch gemeinsam weiterentwickeln. Dies wird häufig bei der Ko-Evolution der Praxis (wie wir etwas tun) mit der Evolution einer Aktivität (was wir tun) gesehen, insbesondere wenn wir von Produkten zu mehr industrialisierten Formen übergehen. Die Ursache dafür ist die Veränderung der Eigenschaften der Aktivität. DevOps ist ein solches Beispiel für Co-Evolution
+
+   Effizienz ermöglicht Innovation
+
+   Die Genese zeugt die Evolution zeugt die Genese. Die Industrialisierung einer Komponente ermöglicht durch Komponentisierungseffekte das Entstehen neuartiger Systeme höherer Ordnung. Sie ermöglicht aber auch das Auftauchen neuer Funktionen für bestehende Produkte oder sogar die Evolution anderer Komponenten. Die Industrialisierung der Massenkommunikation zu einem standardisierten Gebrauchsgegenstand wie dem Internet ermöglichte die Industrialisierung der Computertechnik zu einem Gebrauchsgegenstand. Ich verwende das Wort Innovation, um all jene Veränderungen zu beschreiben, die aus der Entstehung eines neuen Akts, der Ausdifferenzierung eines bestehenden Akts oder der Änderung des Geschäftsmodells (z. B. Wechsel vom Produkt zum Dienstprogramm) entstehen. Die Entwicklung einer Komponente und ihre effiziente Bereitstellung ermöglicht die Innovation anderer
+
+   Systeme höherer Ordnung schaffen neue Wertquellen
+
+   Es ist die Genese neuer Komponenten, die neue Benutzerbedürfnisse ermöglichen, die zukünftige Quellen für unterschiedliche Werte schaffen. Ich sage ausdrücklich "ermöglichen", denn in vielen Fällen sind sich die Benutzer nicht bewusst, welche zukünftigen Bedürfnisse sie haben könnten
+
+   Der Wert der Zukunft ist umgekehrt proportional zu der Gewissheit, die wir über sie haben.
+
+   Die Genese einer Komponente ist von Natur aus unsicher, aber es ist auch der Punkt, an dem eine Komponente ihren höchsten Zukunftswert hat. Sie müssen mit der Neuheit spielen, aber es gibt auch das Potenzial für enorme Belohnungen. Wenn sich die Komponente weiterentwickelt, sinkt ihr Potenzial für unterschiedliche Werte, da sie in ihrem anwendbaren Markt immer allgegenwärtiger wird. Das bedeutet auch, dass jede Komponente, die noch keine Ubiquität erreicht hat, eine gewisse Unsicherheit und ein gewisses Risikoelement behalten muss. Die einzigen Bedingungen, unter denen eine gut verstandene, nahezu risikofreie Komponente existiert, die nicht ubiquitär ist und einen hohen Wert hat, ist, wenn es eine Form der Wettbewerbsbeschränkung gibt, z. B. eine Beschränkung durch Patente oder ein Monopol. Es muss auch darauf geachtet werden, dass die Begriffe verbreitet wie in "jeder hat eins" nicht mit Ubiquität für den entsprechenden Markt verwechselt werden. Viele Komponenten haben
+   Ressourcenbeschränkungen (z. B. Gold) oder der Marktbedarf ist spezifisch (z. B. Perücken für Anwälte und Richter)
+
+   Effizienz bedeutet nicht weniger Ausgaben
+
+   Auch wenn die Evolution zu einer effizienteren Bereitstellung einer Komponente führt, sollte dies nicht mit einer Reduzierung der Ausgaben für diese Komponente verwechselt werden. In vielen Fällen gibt es einen langen Schwanz unbefriedigter Nachfrage, die durch Effizienz ermöglicht wird, oder zuvor unwirtschaftliche Handlungen, die machbar werden, oder sogar die Schaffung neuer Industrien, die zu einer größeren Nachfrage führen. Dies ist als Jevons Paradoxon bekannt
+
+   Die Entwicklung zu Systemen höherer Ordnung führt zu einem steigenden Energieverbrauch
+

@@ -1,5 +1,0 @@
-Kapitel 6.3.: Kontinuierliches Lernen
-
-   Dieses gesamte Buch ist einem Prozess des kontinuierlichen Lernens gewidmet, wobei es mir wichtiger ist, zu zeigen, wie man dies erreicht (der Strategiezyklus), als die Besonderheiten bestimmter Muster. Sobald Sie die Grundlagen haben, werden Sie die Muster selbst lernen. Es lohnt sich aber auch, dass ich auf dem Weg dorthin eine Zusammenfassung mache. In Abbildung 64 habe ich die bisher untersuchten Grundmuster dargestellt
-Siehe    Abbildung 64: Abgedeckte Patterns für mehr Details.
-

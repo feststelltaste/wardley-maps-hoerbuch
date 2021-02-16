@@ -1,0 +1,8 @@
+Kapitel 11.3.2.: Die Wolke wird grün sein
+
+   Ein weiteres häufiges Gesprächsthema im Jahr 2008 war die Frage, ob Cloud Computing grün sein würde. Das reichte von der Substitution physischer durch digitale Güter über die Ineffizienz der bestehenden Industrie bis hin zur Materialverschwendung durch ungenutzte Kapazitäten und die Energieversorgung. Es gab zweifellos eine Menge Verschwendung und Verbesserungspotenzial, so dass man ein Argument dafür finden könnte, dass Cloud grün ist. Es gibt jedoch etwas Langfristiges, über das man hier nachdenken sollte
+
+   Wenn wir eine Wertschöpfungskette betrachten, industrialisieren wir ständig Komponenten und bauen neue Systeme darauf auf. Maschinen auf der Mutter und Schraube. Intelligente Software-Agenten auf Datenbanken auf Computern auf Strom. Wir schaffen ständig Systeme höherer Ordnung, die auf stärker industrialisierten und geordneten Komponenten aufbauen. Wir bauen Türme der Ordnung aus dem Chaos. Wie bei anderen biologischen Systemen verringern wir die lokale Entropie, und das erfordert Energie. Wir mögen heute weit davon entfernt sein, Energie effizient zu nutzen, aber unabhängig davon wird unser grundlegender Bedarf und Verbrauch an Energie steigen (siehe Abbildung 144). Damit der Fortschritt grün ist, müssen wir uns zwangsläufig den Mitteln der Energieerzeugung zuwenden
+Siehe    Abbildung 144: Spüren Sie die Kraft für mehr Details.
+
+

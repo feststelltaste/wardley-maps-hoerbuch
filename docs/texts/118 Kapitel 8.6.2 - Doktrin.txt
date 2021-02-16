@@ -1,0 +1,17 @@
+Kapitel 8.6.2.: Doktrin
+
+      Konzentrieren Sie sich auf das Ergebnis, nicht auf den Vertrag. Wert- (ergebnis-) basierte Werkzeuge können hier nützlich sein, aber seien Sie gewarnt, sie können auch Fehler im Verständnis von Wert aufdecken und durch den Unternehmenskorpus behindert werden, z.B. durch einen Budgetierungsprozess und dessen Unfähigkeit, mit variablen Gebühren umzugehen.
+      Verwenden Sie geeignete Tools. Wenn ich Karten verwende und Finanzströme betrachte, dann tauche ich oft in die Finanzmodellierung ein, wenn ich mehrere Investitionspfade in Betracht ziehe, z. B. den Fokus auf die Steigerung der Besucherzahlen durch Marketing oder die Konversionsrate von einer Microsite. Wenn ich mehrere "Wo" identifiziert habe, die ich angreifen kann, tauche ich oft in die Business Model Canvas ein, um sie zu vergleichen. Scheuen Sie sich nicht davor, mehrere Tools zu verwenden. Karten sind einfach ein Leitfaden und Lernwerkzeug.
+      Optimieren Sie den Fluss. Wenn Sie Abläufe untersuchen, werden Sie oft Engpässe, Ineffizienzen und unrentable Abläufe finden. Es wird Dinge geben, die Sie tun, die Sie einfach nicht tun müssen.
+      Achten Sie sehr darauf, nicht nur die Effizienz, sondern die Effektivität zu berücksichtigen. Versuchen Sie zu vermeiden, in die Effizienzsteigerung eines ineffektiven Prozesses zu investieren, wenn Sie hinterfragen sollten, warum Sie etwas tun, und versteckte Kosten aufdecken sollten. Gehen Sie auch nicht davon aus, dass eine "offensichtliche" Änderung willkommen sein wird. Hüten Sie sich vor dem Firmenkorpus.
+      Wenn es darum geht, den Fluss zu verwalten, dann ist Granularität Ihr Freund. Seien Sie jedoch darauf vorbereitet, dass die meisten Unternehmen nicht annähernd den Grad an Granularität haben, den Sie benötigen, und Sie könnten sogar auf Politik stoßen, wenn Sie versuchen, dies herauszufinden. Denken Sie im Kleinen, d. h. kennen Sie die Details.
+      Jede Map kann mehrere verschiedene Benutzer enthalten und oft können die Bedürfnisse dieser Benutzer in Konflikt stehen, obwohl Sie versuchen sollten, sie alle zusammenzubringen.
+
+   Wir haben bisher eine ganze Menge an Lehre behandelt, ich habe das (in Orange) in Abbildung 93 hervorgehoben. Obwohl wir mehrere andere Bereiche der Lehre übersprungen haben, möchte ich später im Buch mit einer formelleren Untersuchung auf sie zurückkommen
+Siehe    Abbildung 93: Doktrin für mehr Details.
+
+   Wir haben auch einen Aspekt des Gameplays erwähnt - Handel. Karten sind eine Form von Wissenskapital, und sie neigen dazu, einen Wert zu haben. Erwarten Sie nicht, dass die Leute sie einfach mit Ihnen teilen. Sie müssen handeln oder Ihre eigenen erstellen
+
+   Im nächsten Abschnitt werden wir uns auf das Klima konzentrieren, einschließlich gemeinsamer wirtschaftlicher Muster und Antizipation.
+
+

@@ -1,9 +1,0 @@
-Kapitel 15.5.6.: Technik
-
-   Die Entwicklung hat auch eine Karte des Raums zur Verfügung gestellt, die sowohl die "interne" als auch die "öffentliche" Variante abdeckt. Der Unterschied wird einfach als eine Verschiebung von einer eher produktähnlichen Plattform (die es erfordert, dass wir unseren eigenen Produktstack aufbauen, warten und betreiben) zu einer eher nutzungsorientierten Umgebung erklärt. Eine wesentliche Änderung bei dieser Verschiebung ist die funktionsbasierte Abrechnung, durch die eine größere Transparenz, Klarheit und Variabilität bei den IT-Ausgaben erreicht werden kann
-
-   Diese Umgebungen sind relativ neu, aber die Entwickler sind der Meinung, dass der Aufbau von Fähigkeiten in diesem "serverlosen" Bereich (der im Markt übliche Begriff für öffentliche Code-Ausführungsplattformen trotz der offensichtlichen Existenz von Servern unter der Haube) für die zukünftige Wettbewerbsfähigkeit unerlässlich ist. Die Karte ist in Abbildung 197 dargestellt, wobei Punkt 1 die Inhouse-Lösung und Punkt 2 die öffentliche Plattformlösung darstellt. Der CFO hat verschiedene Metriken markiert, die in den oben genannten Modellen verwendet werden
-Siehe    Abbildung 197: Eine Karte der Landschaft für mehr Details.
-
-   Systeme und Sicherheit haben beide Bedenken. Die Sicherheit ist besorgt über den Mangel an Erfahrung in diesem Bereich, erkennt aber auch die Notwendigkeit an, entsprechende Fähigkeiten zu entwickeln. Systems hebt hervor, dass es über reichlich Fähigkeiten bei der Entwicklung solcher Umgebungen verfügt und die Umgebung effektiver aufbauen kann als ein allgemeiner öffentlicher Anbieter. Über den Begriff "serverless" wird ein wenig gespottet. Der Leiter von Systems sagt auch, dass wir ein besorgniserregendes Signal an das Systemteam senden, wenn wir uns auf den Weg machen, einen ungetesteten öffentlichen Dienst für ein so sichtbares und wichtiges Projekt zu nutzen.
-

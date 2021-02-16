@@ -1,0 +1,6 @@
+Kapitel 11.4.1.: Schritt 1 - Der Zyklus
+
+   Verstehen Sie, dass Strategie ein kontinuierlicher Zyklus ist. Sie haben nicht alle Informationen, die Sie benötigen, Sie kennen nicht alle Muster und es gibt viele Aspekte des Lebens, die unsicher sind. Glücklicherweise ist nicht alles ungewiss. Beginnen Sie mit einer Richtung (d.h. einem Warum der Absicht, wie in "Ich möchte diese Schachpartie gewinnen"), aber seien Sie darauf vorbereitet, sich anzupassen, wenn sich das Spiel entfaltet (d.h. das Warum der Bewegung, wie in "Soll ich diese oder jene Schachfigur bewegen?"). Ihr erster Schritt auf der Reise ist es, den Zyklus der Strategie zu verstehen - Figur 156. Viele Leute können Ihnen hier helfen, von John Boyd (OODA-Schleifen) bis Sun Tzu (Kunst des Krieges)
+Siehe    Abbildung 156: Der Strategiezyklus für mehr Details.
+
+

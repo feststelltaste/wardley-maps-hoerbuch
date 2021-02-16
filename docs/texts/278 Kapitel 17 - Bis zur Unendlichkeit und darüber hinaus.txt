@@ -1,0 +1,17 @@
+Kapitel 17.- Bis zur Unendlichkeit und darüber hinaus
+
+
+
+   Ich arbeitete an der Verwendung von gedruckter Elektronik mit Papier (man denke an digitale Interaktivität innerhalb eines normalen Buches), als ich den Anruf eines Freundes über "diesen Raumfahrer, der dich unbedingt treffen will" bekam. Ich war neugierig, also ging ich mit, um jemanden namens Mark bei Canonical zu treffen. Ich wusste nicht, was ich erwarten sollte. Die ersten paar Minuten waren auf jeden Fall interessant
+      Shuttleworth : "Ich bin Mark. Mir wurde gesagt, dass Sie ein guter UX-Designer sind."
+      Ich : "Ich habe keine Ahnung von Design."
+  i. Stille
+
+   Es war eine peinliche Pause. Dann erkannte Mark, dass die nächste Stunde wahrscheinlich eine Verschwendung seiner Zeit war, und bat mich, ihm etwas zu erzählen, wovon ich etwas wusste. Ich sprach über die Entwicklung, die Veränderungen in der Branche und schon bald waren wir bei Diagrammen, Karten und Cloud Computing angelangt. Die Zeit verging wie im Flug. Wir redeten weiter. Ich wurde anderen vorgestellt und in einer scheinbar blitzschnellen Zeit arbeitete ich bei Canonical. Ich hatte eine Aufgabe: Ubuntu in die Cloud zu bringen. Ich rief meinen Freund an und fragte ihn, was passiert war. Steve antwortete nur "Ich wusste, dass ihr euch vertragen würdet". Das Leben ist voll von angenehmen Störenfrieden wie Steve
+
+   Am ersten Tag, als ich zur Arbeit kam, war ich ganz aufgeregt und hatte den üblichen verwirrten Blick eines Kaninchens, das auf Scheinwerfer starrt. Mein Chef, der zufällig auch ein anderer Steve war, machte die üblichen Vorstellungsrunden. Das war ein interessanter Moment. Während ich mich über die Herzlichkeit der Leute freute, die ich traf, waren die ersten fünf Reaktionen auf meine Rolle, Ubuntu in die Cloud zu bringen, negativ - "es ist eine Modeerscheinung", "warum machen wir das" usw. Ich wusste, dass ich ziemlich schnell eine Kabale aufbauen und ein wenig Schwung erzeugen musste. Meine erste offizielle Aufgabe bestand jedoch darin, mir die geschriebene Virtualisierungsstrategie anzusehen. Es war einer dieser "oh, was habe ich getan"-Momente. Glücklicherweise dauerte es nicht lange, bis ich andere mit gleichen Interessen fand - Rick Clark, Soren Hansen, Nick Barcet und viele andere. Steve George (mein Chef) war auch einer der unterstützendsten Menschen, für die ich je gearbeitet
+   habe, ein guter Freund und dann war da noch Mark. Ohne Mark wäre das alles nicht möglich gewesen
+
+   Das Problem zu Beginn war, dass Canonical auf den Server- und Desktop-Markt fokussiert war. Es hatte es mit riesigen Giganten wie RedHat und Microsoft zu tun. Es unternahm tapfere, fast heroische Anstrengungen, aber Canonical war klein. Viele wollten sich auf das Server-OS konzentrieren, um Einnahmen aus Support-Lizenzen zu generieren und für einige wenige war die Cloud eine Ablenkung. Das Problem war eine Fokussierung und was ich tun musste, war, die Denkweise zu ändern. Um dieses Problem zu erklären und warum es wichtig war, werde ich eine Reihe von Konzepten aus den Drei Horizonten bis hin zu Porter behandeln, bevor ich wieder zu Canonical zurückkehre.
+
+

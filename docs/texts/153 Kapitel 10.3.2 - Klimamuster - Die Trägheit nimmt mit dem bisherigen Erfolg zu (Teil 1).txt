@@ -1,0 +1,25 @@
+Kapitel 10.3.2.: Klimamuster : Die Trägheit nimmt mit dem bisherigen Erfolg zu.
+
+   Eines der Themen, die ich erwähnt habe, ist Trägheit und unser Widerstand gegen Veränderungen. In jeder etablierten Wertschöpfungskette gibt es bestehende Schnittstellen zu Komponenten und dazugehörige Praktiken. Die Änderung dieser Schnittstellen und Praktiken ist mit erheblichen Kosten verbunden, da sie einen Umbruch in allen darauf aufbauenden Systemen höherer Ordnung verursacht, z. B. wirkt sich eine Änderung der Standards in der Stromversorgung auf alle Geräte aus, die sie nutzen. Diese Kosten erzeugen Widerstand gegen die Änderung. Ähnliche Effekte finden Sie auch bei Daten oder, genauer gesagt, bei unseren Modellen zum Verständnis von Daten. Wie Bernard Barber einmal bemerkte, zeigen sogar Wissenschaftler unterschiedliche Grade von Widerstand gegen wissenschaftliche Entdeckungen. Zum Beispiel sind die Kosten, die mit der Änderung der neuesten Hypothese zu einem hochrangigen wissenschaftlichen Konzept verbunden sind, relativ gering, und oft erleben wir innerhalb der Gemeinschaft
+   lebhafte Debatten über solche Hypothesen. Die Änderung eines grundlegenden wissenschaftlichen Gesetzes, das alltäglich ist, gut verstanden wird und als Grundlage für Konzepte auf höherer Ebene verwendet wird, hat jedoch Auswirkungen auf all die Dinge, die darauf aufbauen, und daher ist der Widerstand entsprechend größer. Solche monumentalen Veränderungen in der Wissenschaft erfordern oft neue Formen von Daten, die einen Krisenpunkt in der Gemeinschaft durch ungelöste Paradoxien schaffen, einschließlich Dingen, die einfach nicht in unsere aktuellen Modelle des Verständnisses passen. In einigen Fällen sind die Veränderungen so tiefgreifend und die Auswirkungen höherer Ordnung so bedeutend, dass wir sogar den Ausdruck "wissenschaftliche Revolution" prägen, um sie zu beschreiben
+
+   Die Kosten des Wandels stoßen immer auf Widerstand und vergangene Paradigmen werden selten einfach aufgegeben - egal, ob es sich um ein Modell des Verstehens, eine gewinnbringende Tätigkeit, die als Produkt angeboten wird, oder eine bewährte Geschäftspraxis handelt. Wie Wilfred Totter sagte, "der Verstand erfreut sich an einer statischen Umgebung". Leider ist das nicht die Welt, in der wir leben. Das Lebensmotto ist "Situation normal, alles muss sich ändern" und der einzige Zeitpunkt, an dem die Dinge aufhören, sich zu ändern, ist, wenn sie tot sind
+
+   Der Grad des Widerstands gegen Veränderungen nimmt zu, je nachdem wie etabliert und vernetzt das bisherige Modell ist. In Abbildung 127 habe ich dies als Trägheitsbarrieren dargestellt, die umso größer werden, je weiter die Komponente entwickelt ist
+Siehe    Abbildung 127: Trägheit steigt mit dem Erfolg für mehr Details.
+
+   Es gibt auch viele Formen von Trägheit. Im Beispiel der Ko-Evolution (in [166]chapter 9) gab es zwei Formen der Trägheit. Die erste ist auf den Erfolg der bisherigen Architekturpraxis zurückzuführen. Die zweite wird dadurch verursacht, dass die sich mitentwickelnde Praxis relativ neu ist und daher ein hohes Maß an Unsicherheit über sie besteht. Beide Quellen erzeugen Widerstände bei der Annahme der Veränderung, die in diesem Fall die Verlagerung vom Produkt zum Nutzen der Datenverarbeitung ist (siehe Abbildung 128)
+Siehe    Abbildung 128: Praktiken und Trägheit für mehr Details.
+
+   Was macht also die Trägheit und diesen Widerstand gegen Veränderungen in Unternehmen aus? Das hängt von der Perspektive des Einzelnen ab und davon, ob er ein Verbraucher oder ein Anbieter ist
+
+   Der Verbraucher
+
+   Aus der Sicht eines Konsumenten einer sich entwickelnden Aktivität, einer Praxis oder eines Modells des Verstehens neigt Trägheit dazu, sich in drei grundlegenden Formen zu manifestieren - Unterbrechung vergangener Normen, Übergang zum Neuen und die Vermittlung des Neuen. Ich werde jede davon am Beispiel des Cloud Computing erklären
+
+   Zu den typischen Bedenken bezüglich der Unterbrechung der bisherigen Normen gehören:       Änderung der Geschäftsbeziehungen von alten Lieferanten zu potenziell neuen Lieferanten.
+      Ein Verlust an finanziellem oder physischem Kapital durch den vorherigen Kauf eines Produktes, z.B. muss die vorherige Investition abgeschrieben werden.
+      Ein Verlust an politischem Kapital durch eine vorherige Kaufentscheidung, z. B. "Was soll das heißen, ich kann das milliardenschwere ERP-System, zu dessen Kauf ich dem Vorstand geraten habe, jetzt auf Kredit mieten?"
+      Ein Verlust an Humankapital, da sich bestehende Fähigkeiten und Praktiken ändern, z. B. bei Server-Huggern.
+      Die Gefahr, dass die Eintrittsbarrieren gesenkt werden, was zu einem verstärkten Wettbewerb in einer Branche führt, z. B. kann sich auch ein kleines Unternehmen eine Farm mit Supercomputern leisten.
+

@@ -1,0 +1,29 @@
+Kapitel 11.3.6.: Wir sind nicht blind, wir haben Prinzipien!
+
+   Eine häufige Entgegnung auf diese Idee, dass Unternehmen blind spielen, war, dass es keine Rolle spielt. Wenn wir die idealen Algorithmen, Regeln oder Prinzipien finden könnten, dann könnten wir diese tragende Organisation schaffen. Man kann sich das als eine Variation von Conways Spiel des Lebens vorstellen, aber mit der Einbildung, dass wir nur den richtigen Code finden müssen und das Problem mit meiner Simulation darin besteht, dass ich einfach die falschen Prinzipien hatte. Um dies herauszufordern, verwende ich ein wenig WoW
+
+   Ich habe oft festgestellt, dass World of Warcraft (ein Massive Multiplayer Online Role Playing Game, bekannt als WoW) ein nützliches Vehikel ist, um grundlegende Konzepte der Strategie zu erklären und zu erforschen, und dies ist keine Ausnahme. In diesem Beispiel möchte ich, dass Sie sich zwei Teams von Spielern vorstellen - die Horde und die Allianz - die sich darauf vorbereiten, zum ersten Mal auf einem Schlachtfeld namens Kriegshymnenschlucht zu kämpfen
+
+   Beide Teams haben eine kurze Zeit, um sich vorzubereiten, bevor die Schlacht beginnt. Der Gewinner ist das Team, das die gegnerische Flagge dreimal erobert. Gehen wir davon aus, dass keines der beiden Teams schon einmal in der Kriegshymnenschlucht war oder Erfahrung mit Kämpfen auf Schlachtfeldern hat. Nur zur Erinnerung: Wenn Ihr Charakter auf dem Schlachtfeld getötet wird, erwacht er ein paar Augenblicke später auf dem Friedhof Ihres Teams wieder zum Leben. Ein Team (die Allianz) skizziert seine Strategie, wie es die Schlacht gewinnen will. Sie besteht aus fünf Prinzipien, auf die sie sich geeinigt haben. Diese sind :      Fokus : Erobere die Flagge und gewinne das Spiel!
+      Doktrin :
+      Mach das mit tollen Leuten! Wir werden die besten Kämpfer, Zauberer und Heiler sein.
+      Seien Sie bereit, Risiken einzugehen und schnell zu scheitern! Wir werden nicht einfach auf Nummer sicher gehen.
+      Eine unterstützende Kultur! Wir helfen uns gegenseitig, wenn wir gefragt werden.
+      Offen für Herausforderungen und das Stellen von schwierigen Fragen.
+
+   Das Team ist enthusiastisch und bereit, loszulegen. Ihnen gegenüber steht das Team der Horde-Spieler. Sie haben auch ihre Zeit mit der Vorbereitung verbracht, aber das Ergebnis ist etwas anders. Dieses Team versteht die Bedeutung von Karten und nutzt sie für strategisches Spiel. Sie haben eine Karte der Kriegshymnenschlucht und haben eine "Strategie" entwickelt, die aus :- besteht
+      Fokus : Erobere die Flagge und gewinne das Spiel!
+      Doktrin :
+      Führen Sie Ihre Rolle so gut Sie können aus (Entwickeln Sie Meisterschaft).
+      Als eine Einheit (eine Zelle) agieren, d. h. gemeinsam kämpfen und sich bewegen.
+      Kontextspezifisches Spiel :
+      Zu Beginn agiert das Team als eine Zelle in einem anfänglichen Rundumschlag. Die Gruppe bewegt sich schnell durch den zentralen Tunnel in Richtung der gegnerischen Basis und schaltet dabei gegnerische Spieler aus, die sich einmischen. Schalten Sie immer zuerst gegnerische Heiler, dann Zauberer und dann Kämpfer aus.
+      Sobald ihre Flagge von unserem Kämpfer erobert wurde, wird die Gruppe daran arbeiten, gegnerische Spieler auszuschalten und ein Lager auf dem gegnerischen Friedhof zu errichten - siehe Karte (Abbildung 153) - und deren Spieler zu töten, sobald sie wiederbelebt werden und bevor sie irgendeine Form von Gruppe bilden. Das Verspotten von Allianzspielern ist erwünscht.
+      Sobald ihr Friedhof eingedämmt ist, wird sich die Zelle in zwei Zellen aufteilen. Eine kleine Offensivgruppe, bestehend aus ein paar Zauberern, schaltet gegnerische Nachzügler aus, während die größere Zelle (einschließlich unseres Flaggenträgers) weiterhin auf dem Friedhof des gegnerischen Teams kampiert und alle Spieler tötet, die wieder auferstehen. Sobald die gegnerischen Spieler auf dem Friedhof eingeschlossen sind, wird sich die Zelle neu formieren und unser Kämpfer wird weiterhin die Flagge tragen. Wenn der Plan scheitert, formiert sich die Gruppe um unseren Flaggenträger.
+
+Siehe    Abbildung 153: Die Karte des Stücks für mehr Details.
+
+   Kommentierte In-Game-Karte von Warsong Gluch, World of Warcraft
+
+   Jetzt hat das Horde-Team einen Fokus, Prinzipien und eine Form von kontextspezifischer Strategie, die auf einem Verständnis der Umgebung basiert. Es könnte sein, dass es nicht funktioniert, aber dann können die Horde-Spieler ihre Karten nutzen, um ihr Gameplay mit der Zeit zu verfeinern. Ich kann fast garantieren, dass, wenn die Schlacht losgeht, die ersten Fragen der Allianz-Spieler lauten werden: "Sollen wir angreifen oder verteidigen?" und "Wohin müssen wir gehen?"
+

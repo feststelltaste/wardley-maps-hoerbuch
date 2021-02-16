@@ -1,0 +1,5 @@
+Kapitel 12.4.: Digital- und Produktentwicklung
+
+   Im letzten Jahr hat das Digitalteam daran gearbeitet, sowohl die Social-Media-Reichweite, die Website als auch die im Unternehmen verwendeten Tools zu verbessern. Der Fokus liegt nun auf Produktverbesserungen und der Entwicklung eines Cloud-Dienstes.
+
+

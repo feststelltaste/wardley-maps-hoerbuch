@@ -1,0 +1,30 @@
+Kapitel 11.4.4.: Klimamuster
+
+   Alles entwickelt sich durch den Wettbewerb von Angebot und Nachfrage
+
+   Wenn die Bedingungen bestehen, dass eine Person oder eine Gruppe von Menschen danach strebt, eine Form von Vorteil oder Kontrolle über andere aufgrund einer Einschränkung (d. h. einer Begrenzung einer Ressource oder Zeit oder Geld oder Menschen) zu erlangen, dann haben wir Wettbewerb. Wenn Wettbewerb besteht, dann werden sich die betroffenen Komponenten bis zur Industrialisierung entwickeln. Dies wirkt sich auf alles aus, von Aktivitäten (was wir tun), Praktiken (wie wir etwas tun), Daten (wie wir etwas messen) bis hin zu Wissen (wie wir etwas verstehen). Die Landkarte ist nie statisch, sondern dynamisch. Es ist auch wichtig zu verstehen, dass man, wenn es Wettbewerb gibt, in Konflikt mit anderen gerät. Manchmal lässt sich dieser am besten durch Coopetition (d.h. kooperativen Wettbewerb) und den Aufbau von Allianzen lösen. In anderen Fällen, abhängig vom Kontext, muss man kämpfen, bis hin zu einem Spiel des letzten Mannes, der noch steht. In jeder bedeutenden Landschaft werden Sie sich dann
+   wahrscheinlich dabei ertappen, wie Sie in einem Teil der Karte Allianzen aufbauen, während Sie gleichzeitig in einem anderen Teil gegen andere Unternehmen kämpfen und sich aus einem dritten zurückziehen. Wenn sich jedoch die Komponenten auf Ihrer Karte weiterentwickeln, können Ihre ehemaligen Verbündeten zu Feinden werden und umgekehrt. Microsoft und Open Source waren früher Todfeinde, heute sind sie oft beste Kumpel. Um eine solch dynamische und fließende Umgebung zu verwalten, müssen Sie in der Lage sein, sie zu beobachten
+
+   Die Evolution besteht aus mehreren Wellen der Diffusion mit vielen Abgründen.
+
+   Die Evolution besteht aus vielen Instanzen der gleichen Handlung, z. B. einem Telefon, einem besseren Telefon und einem noch besseren Telefon. Jede Instanz einer sich entwickelnden Handlung wird sich über den entsprechenden Markt verbreiten. Diese Märkte ändern sich, wenn sich die Handlung weiterentwickelt, d. h. der Markt für die ersten kundenspezifisch gefertigten Telefone ist nicht derselbe wie der Markt für stärker industrialisierte Telefone. Der Evolutionsprozess kann anhaltende, inkrementelle und diskontinuierliche Veränderungen beinhalten, z. B. Verbesserungen von Produkt zu Produkt oder Substitution von Produkt zu Produkt. Dieser Weg ist nicht glatt, er ist nicht linear, er hat viele Verzweigungen und Sackgassen (z. B. Telefone, die gescheitert sind). Außerdem sind die Aktionen der einzelnen Akteure unvorhersehbar. Daher kann man die Richtung kennen (z. B. Telefone werden sich im Laufe der Zeit industrialisieren), aber nicht die Schritte und den genauen Weg (dieses Telefon wird
+   erfolgreicher sein als jenes), bis man ihn gegangen ist
+
+   Sie können die Entwicklung über die Zeit oder die Übernahme nicht messen.
+
+   Der einzige konsistente Mechanismus, den ich gefunden habe, um Evolution zu messen, ist Ubiquität und Gewissheit, d.h. wie gut verstanden, vollständig und / oder passend etwas für die Umgebung ist
+
+   Je weniger entwickelt etwas ist, desto unsicherer ist es
+
+   Das Neue und Neuartige ist per Definition unsicherer als industrialisierte Komponenten wie Rohstoffe und Versorgungseinrichtungen. Der unerforschte Raum besteht aus dem Unbekannten, d. h. "Ere be dragons"
+
+   Keine Wahl bei der Evolution
+
+   In einem konkurrierenden Ökosystem steigt dann der Druck zur Übernahme einer erfolgreichen Änderung, je mehr die Änderung übernehmen. Dies ist als "Red Queen"-Effekt bekannt, d. h. man muss sich ständig anpassen, um (in Bezug auf die relative Position zu anderen) still zu halten. Das Einzige, was Stillstand garantiert, ist, dass Sie überholt werden. Die "Rote Königin" hat einen sekundären Effekt, der darin besteht, dass die Konkurrenten durch Anpassung das Wachstum eines einzelnen Unternehmens begrenzen und einen Weglaufprozess verhindern
+
+   Kommoditisierung ist nicht gleich Zentralisierung
+
+   Verwechseln Sie nicht die Entwicklung zu einer Ware mit Zentralisierung. Sie werden von unterschiedlichen Faktoren bestimmt und eine industrialisierte Komponente kann leicht zwischen zentralisierten und dezentralisierten Formen hin- und herwechseln. Das Spiel der Konkurrenten ist einer der Faktoren, die bestimmen, ob wir mit einer eher zentralisierten oder dezentralisierten Welt beginnen werden
+
+   Merkmale ändern sich mit der Entwicklung der Komponenten
+
