@@ -3,8 +3,6 @@ layout: post
 image: /images/header.png
 ---
 
-# Willkommen
-
 ![Eine Wardley Map, die die wichtigsten Ideen zu dieser Hörbuchversion des Buches von Simon Wardley charakterisiert.](images/header.png)
 
 Dies ist die (synthetisch erzeugte) Audioversion von [Simon Wardleys](https://twitter.com/swardley) Buch ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps).
