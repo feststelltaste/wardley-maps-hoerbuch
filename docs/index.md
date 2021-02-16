@@ -9,7 +9,7 @@ Dies ist eine synthetisch generierte Hörbuchversion von [Simon Wardleys](https:
 
 # Mitmachen!
 
-Das generierte, deutschsprachige Hörbuch baut auf einer [maschinell übersetzten Version](https://github.com/selfscrum/wardley-maps-book/) auf. Wenn Dir Verbesserungen bei der Übersetzung einfallen, kannst Du diese gerne in dem [Übersetzungsprojekt](https://github.com/selfscrum/wardley-maps-book/issues) einbringen. Wenn Dir Dinge bzgl. der Aussprache auffallen, hinterlasse gerne einen [Hinweis für das Hörbuch](https://github.com/feststelltaste/wardley-maps-hoerbuch/issues). Die Übersetzung und Hörbuch werden  dann von Zeit zu Zeit aktualisiert.
+Das generierte, deutschsprachige Hörbuch baut auf einer [maschinell übersetzten Version](https://github.com/selfscrum/wardley-maps-book/) auf. Wenn Dir Verbesserungen bei der Übersetzung einfallen, kannst Du diese gerne in dem [Übersetzungsprojekt](https://github.com/selfscrum/wardley-maps-book/issues) einbringen. Wenn Dir Dinge bzgl. der Aussprache auffallen, hinterlasse gerne einen [Hinweis für das Hörbuch](https://github.com/feststelltaste/wardley-maps-hoerbuch/issues). Die Übersetzung und das Hörbuch werden dann von Zeit zu Zeit aktualisiert.
 
 # Downloads
 
