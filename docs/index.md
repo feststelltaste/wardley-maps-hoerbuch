@@ -7,6 +7,8 @@ image: /images/header.png
 
 Dies ist eine synthetisch generierte Hörbuchversion von [Simon Wardleys](https://twitter.com/swardley) Buch ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps) in deutscher Sprache (eine [englische Version](https://feststelltaste.github.io/wardley-maps-audiobook/) gibt es auch).
 
+_Derzeit handelt es sich um eine Vorab-Version mit ein [paar kleineren Fehlern](https://github.com/feststelltaste/wardley-maps-hoerbuch/issues). Das Hörbuch lässt sich aber dennoch gut anhören._
+
 # Mitmachen!
 
 Das generierte, deutschsprachige Hörbuch baut auf einer [maschinell übersetzten Version](https://github.com/selfscrum/wardley-maps-book/) auf. Wenn Dir Verbesserungen bei der Übersetzung einfallen, kannst Du diese gerne in dem [Übersetzungsprojekt](https://github.com/selfscrum/wardley-maps-book/issues) einbringen. Wenn Dir Dinge bzgl. der Aussprache auffallen, hinterlasse gerne einen [Hinweis für das Hörbuch](https://github.com/feststelltaste/wardley-maps-hoerbuch/issues). Die Übersetzung und das Hörbuch werden dann von Zeit zu Zeit aktualisiert.
